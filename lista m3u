@@ -1,0 +1,1019 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_6.png" group-title="Costa Rica", Repretel Canal 6 | HD | LA URUCA COSTA RICA
+https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2NjM3Mzk3LCJzZXNzaW9uIjoiMTg2LjE1LjIxNy4xMzEiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE1LjIxNy4xMzEiXX0sInNpZ25hdHVyZSI6ImY4OTNjNmQ4Y2FlNjQyYTg4OTFiMjNhZTQxNzMxNDMyMWI1ZjY2M2UifQ==
+
+#EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11.png" group-title="Costa Rica", REPRETEL CANAL 11 | HD | LA URUCA COSTA RICA
+https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2NjM5MzA3LCJzZXNzaW9uIjoiMTg2LjE1LjIxNy4xMzEiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE1LjIxNy4xMzEiXX0sInNpZ25hdHVyZSI6IjVkYzMxNzY1MWZiYmY0NDUxZDU0MDYzZTNjMmRmZWNiNTM1ZWJjMzkifQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_4.png" group-title="Costa Rica", REPRETEL CANAL 4| HD | LA URUCA COSTA RICA
+https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2NjM5NzI5LCJzZXNzaW9uIjoiMTg2LjE1LjIxNy4xMzEiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE1LjIxNy4xMzEiXX0sInNpZ25hdHVyZSI6ImRjOWExYWNiMTExMGMxYTEzNGE5ODhhOWZhNjQ3NmNkN2Y4ZjJhMmQifQ==
+
+#EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_2.png" group-title="Costa Rica", REPRETEL CANAL 2| HD | LA URUCA COSTA RICA
+https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2NjM5ODQzLCJzZXNzaW9uIjoiMTg2LjE1LjIxNy4xMzEiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE1LjIxNy4xMzEiXX0sInNpZ25hdHVyZSI6ImMxMmIwNWExMDkwODQyMDUxYzA4YTY0ZTg3NTg0ZDNkYWJmYjQ3ODQifQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9axkCVr.png" group-title="Costa Rica", Teleuno | HD | San Ramón
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w1960667504.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="Costa Rica", Telered | SD | Alajuela
+http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
+
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qNrgCwF.png" group-title="Costa Rica", Ticavisión | SD | San  José
+http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w808197071.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4PdxpJ.png" group-title="Costa Rica", Multimedios | HD | San José
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SWxQJ6D.png" group-title="Costa Rica", Colosal  TV | HD | Ciudad Neily
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JhVA6l0.png" group-title="Costa Rica", Telesur | SD | Ciudad Neily
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UCiZdrX.png" group-title="Costa Rica", Anexión TV | HD | Liberia
+http://rtmp.info:8081/anexiontv/envivo/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://static3.teletica.com//Files/Sizes/2017/10/13/logo-teletica-640132500_380x260.jpg" group-title="Costa Rica", TELETICA CANAL 7| HD | LA SABANA COSTA RICA
+https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5zn6-7gfsH0jXnAHeiJIkSM)/dm/3/x29e3wg/d/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://costaricamedios.cr/wp-content/uploads/2020/06/logo-header-sinartcr.png" group-title="Costa Rica", SINART CR| HD | SAN JOSE
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zb2HJIphEv5GlmKxpQKnXyY)/dm/3/x7vh8g3/d/live-0.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MK_nB_kF6gg/XAK2NKJX2ZI/AAAAAAAAHJ0/fTIACd83qME8GtJF4ZwQQ6zkAufp44tgACLcBGAs/s1600/el15envivo.png" group-title="Costa Rica", CANAL UCR| HD | SAN JOSE
+http://163.178.170.127:1935/quinceucr/live.stream_720p/chunklist_w1053428288.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0bcr2L-Fzm8/XNQFOP8LvpI/AAAAAAAAHqc/mLqDkPL0_VEJmy6RYjVj0HiaIWxmXLepwCLcBGAs/s200/Telefides%2BCanal%2B40.png" group-title="Costa Rica", CANAL TELEFIDES| HD | SAN JOSE
+http://190.0.226.17:1935/Telefides/livestream/chunklist_w479006353.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MK_nB_kF6gg/XAK2NKJX2ZI/AAAAAAAAHJ0/fTIACd83qME8GtJF4ZwQQ6zkAufp44tgACLcBGAs/s1600/el15envivo.png" group-title="Costa Rica", CANAL UCR| HD | SAN JOSE
+
+#EXTINF:-1 tvg-logo="http://vmlatino.com/wp-content/uploads/2021/06/cropped-VM-LATINO__fonfo-negro1.png" group-title="Costa Rica", VM LATINO | HD | SAN PEDRO MONTES DE OCA SAN JOSE
+http://k4.usastreams.com/vmtv/vmlatino/chunklist_w334302482.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Canal3.png",GUATEMALA | CANAL 3
+http://tv5full.xyz:25461/quir/quir123/11375
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-11-guatemala_m.png",GUATEMALA | CANAL 11
+http://tv5full.xyz:25461/quir/quir123/11377
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-antigua.png",GUATEMALA | CANAL ANTIGUA
+http://tv5full.xyz:25461/quir/quir123/11379
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Guatevisi%C3%B3n.png",GUATEMALA | GUATEVISION
+http://tv5full.xyz:25461/quir/quir123/11380
+#EXTINF:-1 group-title="FUTBOL CHILENO / Copa América" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png",TNT Sports 1 HD - CL
+http://tv5full.xyz:25461/quir/quir123/42424
+#EXTINF:-1 group-title="FUTBOL CHILENO / Copa América" tvg-logo="http://144.217.91.146//Logos/tnt-sports-2-us.png",TNT Sports 1* HD - CL
+http://tv5full.xyz:25461/quir/quir123/42425
+#EXTINF:-1 group-title="FUTBOL CHILENO / Copa América" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png",TNT Sports 2 HD  - CL
+http://tv5full.xyz:25461/quir/quir123/42426
+#EXTINF:-1 group-title="FUTBOL CHILENO / Copa América" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-3-us.png",TNT Sports 3 SD - CL
+http://tv5full.xyz:25461/quir/quir123/42427
+#EXTINF:-1 group-title="FUTBOL CHILENO / Copa América" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjrLWFSVf8UeTS0tdXfWquIytD9qpPNei4xAzcPGg=s900-c-k-c0x00ffffff-no-rj",DEPORTES LAT - TNT SPORTS HD - CHILE
+http://tv5full.xyz:25461/quir/quir123/24357
+#EXTINF:-1 group-title="FUTBOL CHILENO / Copa América" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjrLWFSVf8UeTS0tdXfWquIytD9qpPNei4xAzcPGg=s900-c-k-c0x00ffffff-no-rj",TNT SPORTS HD - CHILE OP2
+http://tv5full.xyz:25461/quir/quir123/24360
+#EXTINF:-1 group-title="FUTBOL CHILENO / Copa América" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjrLWFSVf8UeTS0tdXfWquIytD9qpPNei4xAzcPGg=s900-c-k-c0x00ffffff-no-rj",DEPORTES LAT | TNT SPORTS 2 - CHILE
+http://tv5full.xyz:25461/quir/quir123/24356
+#EXTINF:-1 group-title="FUTBOL CHILENO / Copa América" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_3.png.9d7a3cb3f592c3e46f51233afff55fb4.png",DEPORTES - TNT SPORTS 3 - CHILE
+http://tv5full.xyz:25461/quir/quir123/24355
+#EXTINF:-1 group-title="FUTBOL CHILENO / Copa América" tvg-logo="https://i.ytimg.com/vi/W3IK_yTGIOU/maxresdefault.jpg",DEPORTES LAT | DIRECTV SPORTS (P)
+http://tv5full.xyz:25461/quir/quir123/1733
+#EXTINF:-1 group-title="Cine Starz",Starz Encore Suspense
+http://tv5full.xyz:25461/quir/quir123/3951
+#EXTINF:-1 group-title="Cine Starz" tvg-logo="http://144.217.91.146/Logos/United%20States/starz-encore-us-black-east.png",Starz Encore Action FHD
+http://tv5full.xyz:25461/quir/quir123/3959
+#EXTINF:-1 group-title="-ENTRETENIMIENTO-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",ENT | FOOD NETWORK MEXICO
+http://tv5full.xyz:25461/quir/quir123/19203
+#EXTINF:-1 group-title="-ENTRETENIMIENTO-" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMyff9mKHfrGBie4ZLA-kiQh6Kt5Aay2gWJhkufd89ZfDNOCeq&s",ENT | WWE NETWORK
+http://tv5full.xyz:25461/quir/quir123/1696
+#EXTINF:-1 group-title="-ENTRETENIMIENTO-" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tru-tv_m.png",ENT | TRU TV *
+http://tv5full.xyz:25461/quir/quir123/1493
+#EXTINF:-1 group-title="-ENTRETENIMIENTO-" tvg-logo="https://i.pinimg.com/280x280_RS/29/e0/68/29e068bbc2320c1cdede4ebc2ac4d800.jpg",ENT | CANAL COCINA
+http://tv5full.xyz:25461/quir/quir123/19204
+#EXTINF:-1 group-title="-ENTRETENIMIENTO-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png",ENT | Galavision Miami
+http://tv5full.xyz:25461/quir/quir123/19205
+#EXTINF:-1 group-title="-ENTRETENIMIENTO-" tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png",ENT | HOLA TV HD
+http://tv5full.xyz:25461/quir/quir123/19206
+#EXTINF:-1 group-title="-ENTRETENIMIENTO-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png",ENT | PASIONES HD Lat
+http://tv5full.xyz:25461/quir/quir123/19207
+#EXTINF:-1 group-title="-ENTRETENIMIENTO-" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tlnovelas_m.png",ENT | Tlenovelas SD
+http://tv5full.xyz:25461/quir/quir123/19208
+#EXTINF:-1 group-title="-ENTRETENIMIENTO-" tvg-logo="https://elgourmet.s3.amazonaws.com/web/834bdnze72_share-default.jpg",ENT | El Gourmet FHD
+http://tv5full.xyz:25461/quir/quir123/19209
+#EXTINF:-1 group-title="-TELEMUNDO-" tvg-logo="http://www.romolegal.com/publishImages/staff~~element44.png",Estados Unidos | Telemundo Chicago
+http://tv5full.xyz:25461/quir/quir123/3373
+#EXTINF:-1 group-title="-TELEMUNDO-",TELEMUNDO | Telemundo New York HD (P)
+http://tv5full.xyz:25461/quir/quir123/925
+#EXTINF:-1 group-title="-TELEMUNDO-",TELEMUNDO | Telemundo WEST HD (A)
+http://tv5full.xyz:25461/quir/quir123/924
+#EXTINF:-1 group-title="-ENTRETENIMIENTO-",LAT | UNIVISION NEW YORK HD
+http://tv5full.xyz:25461/quir/quir123/25070
+#EXTINF:-1 group-title="-ENTRETENIMIENTO-" tvg-logo="https://cdn.mitvstatic.com/channels/co_mas-chic_m.png",ENTRE - MAS CHIC
+http://tv5full.xyz:25461/quir/quir123/29593
+#EXTINF:-1 group-title="-ENTRETENIMIENTO-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Univisiontlnovelas2019.png",Univision Tlenovelas
+http://tv5full.xyz:25461/quir/quir123/33153
+#EXTINF:-1 group-title="-ENTRETENIMIENTO-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png",LAT| GALAVISION MIAMI HD
+http://tv5full.xyz:25461/quir/quir123/42733
+#EXTINF:-1 group-title="-ENTRETENIMIENTO-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png",LAT| GALAVISION NEW YORK HD
+http://tv5full.xyz:25461/quir/quir123/42734
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://cdn.mitvstatic.com/channels/co_a-e-mundo-hd_m.png",CINE PREMIUM | A&E Mundo FHD
+http://tv5full.xyz:25461/quir/quir123/1518
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/AMC2019.png",CINE PREMIUM | AMC FHD
+http://tv5full.xyz:25461/quir/quir123/1519
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://i.pinimg.com/originals/3b/b9/92/14izp9J4m8ofhNXEmtw6Uhsio9v3qEzuLz.png",CINE PREMIUM | AXN
+http://tv5full.xyz:25461/quir/quir123/1520
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cinecanal-1_m.png",CINE PREMIUM | Cinecanal FHD  (P)
+http://tv5full.xyz:25461/quir/quir123/1521
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://www.newslinereport.com/online/nota_cinemax-se-posiciona-entre-lo-8-canales-con-ms-audiencia.jpg",CINE PREMIUM | Cinemax HD
+http://tv5full.xyz:25461/quir/quir123/1522
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png",CINE PREMIUM | De Pelicula Plus FHD
+http://tv5full.xyz:25461/quir/quir123/1523
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://e7.pngegg.com/pngimages/305/96/png-clipart-fox-broadcasting-company-logo-television-fox-international-channels-television-program-television-text.png",CINE PREMIUM | STAR CHANNEL .
+http://tv5full.xyz:25461/quir/quir123/1524
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://e7.pngegg.com/pngimages/305/96/png-clipart-fox-broadcasting-company-logo-television-fox-international-channels-television-program-television-text.png",CINE PREMIUM | STAR CHANNEL
+http://tv5full.xyz:25461/quir/quir123/1526
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png",CINE PREMIUM | STAR ACTION HD
+http://tv5full.xyz:25461/quir/quir123/1527
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-comedy_m.png",CINE PREMIUM | STAR COMEDY HD
+http://tv5full.xyz:25461/quir/quir123/1530
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png",CINE PREMIUM | STAR FUN
+http://tv5full.xyz:25461/quir/quir123/1531
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarSeries_Logo2021_FondoClaro.png.cb78e0cf215c6116d1ea8d275cc08387.png",CINE PREMIUM | STAR SERIES HD
+http://tv5full.xyz:25461/quir/quir123/1533
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fx_m.png",CINE PREMIUM | FX
+http://tv5full.xyz:25461/quir/quir123/1534
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png",CINE PREMIUM | FXM FHD  (p)
+http://tv5full.xyz:25461/quir/quir123/1535
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png",CINE PREMIUM | GOLDEN EDGE
+http://tv5full.xyz:25461/quir/quir123/1536
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/small.5a3bc10e723a2_GoldenPlus.png.cad0ea34ed6ef7f9fc59b62fdea420f4.png",CINE PREMIUM | Golden Plus HD
+http://tv5full.xyz:25461/quir/quir123/1537
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/small.5a3bc10e723a2_GoldenPlus.png.cad0ea34ed6ef7f9fc59b62fdea420f4.png",CINE PREMIUM | Golden Plus FHD
+http://tv5full.xyz:25461/quir/quir123/1538
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://cdn.mitvstatic.com/channels/cl_hbo-2_m.png",CINE PREMIUM | HBO 2 HD
+http://tv5full.xyz:25461/quir/quir123/1539
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",CINE PREMIUM | HBO Family HD
+http://tv5full.xyz:25461/quir/quir123/1540
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg",CINE PREMIUM | Paramount Channel FHD
+http://tv5full.xyz:25461/quir/quir123/1544
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",CINE PREMIUM | SONY CHANNEL HD
+http://tv5full.xyz:25461/quir/quir123/1545
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://i2.wp.com/webadictos.com/media/2020/03/space-tv.png?ssl=1",CINE PREMIUM | SPACE CHANNEL *
+http://tv5full.xyz:25461/quir/quir123/1546
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="",CINE PREMIUM | Space FHD
+http://tv5full.xyz:25461/quir/quir123/1547
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://poptv.orange.es/wp-content/uploads/sites/3/2018/06/sundance-1100x330.jpg",CINE PREMIUM | SUNDANCE TV
+http://tv5full.xyz:25461/quir/quir123/1550
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://www.pngkey.com/png/detail/341-3418694_syfy-2017-vertical-logo-2-syfy-logo.png",CINE PREMIUM | SYFY CHANNEL
+http://tv5full.xyz:25461/quir/quir123/1551
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png",CINE PREMIUM | TBS *
+http://tv5full.xyz:25461/quir/quir123/1552
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1200px-TCM_logo.svg.png",CINE PREMIUM | TCM (Y)
+http://tv5full.xyz:25461/quir/quir123/1553
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1024px-TNT.svg.png",CINE PREMIUM | TNT
+http://tv5full.xyz:25461/quir/quir123/1556
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/2999.png",CINE PREMIUM | TNT SERIES HD (A)
+http://tv5full.xyz:25461/quir/quir123/1557
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://img2.freepng.es/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg",CINE PREMIUM | UNIVERSAL CHANNEL (E)
+http://tv5full.xyz:25461/quir/quir123/1558
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png",CINE PREMIUM | WARNER TV (e)
+http://tv5full.xyz:25461/quir/quir123/1559
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png",CINE PREMIUM | WARNER TV (T)
+http://tv5full.xyz:25461/quir/quir123/1560
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/2999.png",CINE PREMIUM | TNT Series FHD (P)
+http://tv5full.xyz:25461/quir/quir123/1563
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1024px-TNT.svg.png",CINE PREMIUM | TNT FHD
+http://tv5full.xyz:25461/quir/quir123/1565
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://img1.freepng.es/20180920/ela/kisspng-logo-united-states-of-america-brand-product-design-tv-channel-latinoamerica-bing-images-5ba3a595c34534.3118367415374514137998.jpg",CINE PREMIUM | GOLDEN SD
+http://tv5full.xyz:25461/quir/quir123/1568
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="",CINE PREMIUM | STAR HITS HD
+http://tv5full.xyz:25461/quir/quir123/1572
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png?region=0,0,500,575",CINE PREMIUM | STAR LIFE
+http://tv5full.xyz:25461/quir/quir123/1574
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-classics-blanco.png.2a5287bef8ed0158113e790a3009165a.png",CINE PREMIUM | STAR CLASSICS
+http://tv5full.xyz:25461/quir/quir123/1576
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="",CINE PREMIUM | STAR CHANNEL HD
+http://tv5full.xyz:25461/quir/quir123/1578
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png",CINE PREMIUM | De Pelicula (e)
+http://tv5full.xyz:25461/quir/quir123/1584
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cinecanal-1_m.png",CINE PREMIUM | Cinecanal HD *
+http://tv5full.xyz:25461/quir/quir123/1586
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://img2.freepng.es/20181122/qav/kisspng-hbo-signature-logo-hbo-plus-high-definition-televi-5bf69ffcbaf835.6243931815428894687658.jpg",CINE PREMIUM | HBO SIGNATURE *
+http://tv5full.xyz:25461/quir/quir123/1592
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/5/51/HBOPLUS.png/revision/latest/scale-to-width-down/340?cb=20130717021305&path-prefix=es",CINE PREMIUM | HBO Plus
+http://tv5full.xyz:25461/quir/quir123/1593
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQGfS24cKlVOBw/company-logo_200_200/0?e=2159024400&v=beta&t=XUWxQioq5N8LRJeXvs43DKZVl40TE5UiEvtVokzCJEk",CINE PREMIUM | HBO HD
+http://tv5full.xyz:25461/quir/quir123/1596
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="",CINE PREMIUM | STAR CINEMA HD
+http://tv5full.xyz:25461/quir/quir123/1598
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png",CINE PREMIUM | DHE
+http://tv5full.xyz:25461/quir/quir123/8478
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2c/Logo-hboPOP2020.png/revision/latest/scale-to-width-down/340?cb=20200116192537&path-prefix=es",CINE PREMIUM | HBO Pop
+http://tv5full.xyz:25461/quir/quir123/8482
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://cdn.mitvstatic.com/channels/cl_max-prime_m.png",CINE PREMIUM | HBO XTREME
+http://tv5full.xyz:25461/quir/quir123/8484
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png",CINE PREMIUM | HBO Mundi
+http://tv5full.xyz:25461/quir/quir123/8481
+#EXTINF:-1 group-title="-CINE PREMIUM-" tvg-logo="https://2017.sdlatinofilm.com/wp-content/uploads/sites/21/2017/03/Cinelatino_300x300-300x300.gif",Cine Latino
+http://tv5full.xyz:25461/quir/quir123/47804
+#EXTINF:-1 group-title="-INFANTILES-",INFANTIL | TOONCAST SD
+http://tv5full.xyz:25461/quir/quir123/1457
+#EXTINF:-1 group-title="-INFANTILES-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg",INFANTIL | Cartoon Network FHD
+http://tv5full.xyz:25461/quir/quir123/1460
+#EXTINF:-1 group-title="-INFANTILES-" tvg-logo="https://mpng.subpng.com/20180404/faq/kisspng-youtube-nickelodeon-logo-nicktoons-nick-jr-amor-5ac452f2d21889.3992097315228157308606.jpg",INFANTIL | NICK
+http://tv5full.xyz:25461/quir/quir123/1462
+#EXTINF:-1 group-title="-INFANTILES-" tvg-logo="https://www.newslinereport.com/online/nota_lanzan-nicktoons-en-mxico-.jpg",INFANTIL | NICKTOONS *
+http://tv5full.xyz:25461/quir/quir123/1463
+#EXTINF:-1 group-title="-INFANTILES-",INFANTIL | NATGEO KIDS
+http://tv5full.xyz:25461/quir/quir123/1465
+#EXTINF:-1 group-title="-INFANTILES-",INFANTIL | DISNEY XD
+http://tv5full.xyz:25461/quir/quir123/1466
+#EXTINF:-1 group-title="-INFANTILES-",INFANTIL | DISNEY JR
+http://tv5full.xyz:25461/quir/quir123/1467
+#EXTINF:-1 group-title="-INFANTILES-",INFANTIL | DISNEY CHANNEL HD
+http://tv5full.xyz:25461/quir/quir123/1468
+#EXTINF:-1 group-title="-INFANTILES-",INFANTIL | Discovery Kids SD
+http://tv5full.xyz:25461/quir/quir123/1469
+#EXTINF:-1 group-title="-INFANTILES-" tvg-logo="",INFANTIL | NICKELODEON *
+http://tv5full.xyz:25461/quir/quir123/10487
+#EXTINF:-1 group-title="-INFANTILES-" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",INFANTIL | NICK JR.
+http://tv5full.xyz:25461/quir/quir123/19489
+#EXTINF:-1 group-title="-INFANTILES-",INFANTIL | Semillitas SD
+http://tv5full.xyz:25461/quir/quir123/42717
+#EXTINF:-1 group-title="PARAGUAY",PARAGUAY | PARAGUAY TV
+http://tv5full.xyz:25461/quir/quir123/15169
+#EXTINF:-1 group-title="PARAGUAY",PARAGUAY | TELEFUTURO HD
+http://tv5full.xyz:25461/quir/quir123/15172
+#EXTINF:-1 group-title="PARAGUAY",PARAGUAY | UNICANAL
+http://tv5full.xyz:25461/quir/quir123/15173
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="http://ecuaplaytv.com:8000/images/I7An6xabyFbmIqtxy9uhhq76raMFT0vZ.png",PARAGUAY | Gen TV
+http://tv5full.xyz:25461/quir/quir123/15179
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png",PARAGUAY | NOTICIAS PY
+http://tv5full.xyz:25461/quir/quir123/19253
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="",PARAGUAY | TIGO SPORTS 1 HD PARAGUAY
+http://tv5full.xyz:25461/quir/quir123/20523
+#EXTINF:-1 group-title="COPA LIBERTADORES Y  COPA SUDAMERICANA" tvg-logo="http://andinotv.live:8080/images/484702e8fa54e27f53e6569bac958af8.png",FOX SPORTS 1 LAT HD
+http://tv5full.xyz:25461/quir/quir123/42815
+#EXTINF:-1 group-title="COPA LIBERTADORES Y  COPA SUDAMERICANA" tvg-logo="http://andinotv.live:8080/images/0dd02d91bac39ed836a5debc4d741419.png",CH: Fox Sport 1 HD
+http://tv5full.xyz:25461/quir/quir123/42816
+#EXTINF:-1 group-title="COPA LIBERTADORES Y  COPA SUDAMERICANA" tvg-logo="http://andinotv.live:8080/images/04052d78a4524ede8fe4c7bfc82947e4.png",FOX SPORT 2 FHD*
+http://tv5full.xyz:25461/quir/quir123/42817
+#EXTINF:-1 group-title="COPA LIBERTADORES Y  COPA SUDAMERICANA" tvg-logo="http://andinotv.live:8080/images/2858c50b563b886193b4308053812768.png",ARG: ESPN HD
+http://tv5full.xyz:25461/quir/quir123/42818
+#EXTINF:-1 group-title="COPA LIBERTADORES Y  COPA SUDAMERICANA" tvg-logo="http://andinotv.live:8080/images/2858c50b563b886193b4308053812768.png",CH: ESPN HD
+http://tv5full.xyz:25461/quir/quir123/42819
+#EXTINF:-1 group-title="COPA LIBERTADORES Y  COPA SUDAMERICANA",ARG: ESPN 2  HD
+http://tv5full.xyz:25461/quir/quir123/42820
+#EXTINF:-1 group-title="COPA LIBERTADORES Y  COPA SUDAMERICANA" tvg-logo="http://andinotv.live:8080/images/9b84d3e0322e682af51d7827705ef63a.png",DIRECTV SPORTS +
+http://tv5full.xyz:25461/quir/quir123/42821
+#EXTINF:-1 group-title="COPA LIBERTADORES Y  COPA SUDAMERICANA" tvg-logo="http://andinotv.live:8080/images/d70e9acf0fedebe6c0515aacf6b94888.png",DIRECTV SPORTS 1  HD
+http://tv5full.xyz:25461/quir/quir123/42822
+#EXTINF:-1 group-title="COPA LIBERTADORES Y  COPA SUDAMERICANA" tvg-logo="http://andinotv.live:8080/images/14izp9J4m8ofhNXEmtw6Uhsio9v3qEzuLz.png",DIRECTV 2 HD**
+http://tv5full.xyz:25461/quir/quir123/42823
+#EXTINF:-1 group-title="COPA LIBERTADORES Y  COPA SUDAMERICANA" tvg-logo="https://www.directv.cl/img/directv-logo-fb-150x150.jpg",DIRECTV SPORTS 2 CHILE
+http://tv5full.xyz:25461/quir/quir123/43222
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://cdn.mitvstatic.com/channels/cl_max-prime_m.png",CINE PREMIUM | HBO XTREME SD
+http://tv5full.xyz:25461/quir/quir123/1590
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://img2.freepng.es/20181122/qav/kisspng-hbo-signature-logo-hbo-plus-high-definition-televi-5bf69ffcbaf835.6243931815428894687658.jpg",CINE PREMIUM | HBO Signature SD
+http://tv5full.xyz:25461/quir/quir123/8483
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://pbs.twimg.com/profile_images/1360258834904715270/yRkDGUbq.jpg",CINE PREMIUM | HBO SD
+http://tv5full.xyz:25461/quir/quir123/39802
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-up_m.png",CINE PREMIUM | HBO POP SD
+http://tv5full.xyz:25461/quir/quir123/39803
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png",CINE PREMIUM | HBO Mundi SD
+http://tv5full.xyz:25461/quir/quir123/39804
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://cdn.mitvstatic.com/channels/cl_hbo-2_m.png",CINE PREMIUM | HBO 2 SD
+http://tv5full.xyz:25461/quir/quir123/1595
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="",CINE PREMIUM | HBO Family SD
+http://tv5full.xyz:25461/quir/quir123/39805
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="http://cineparallevar.mx/admin/wp-content/uploads/2017/10/copypasteimage-4.jpg",CINE PREMIUM | HBO Plus SD
+http://tv5full.xyz:25461/quir/quir123/39806
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/1200px-Star_Comedy_2020.svg.png",CINE PREMIUM | STAR COMEDY SD
+http://tv5full.xyz:25461/quir/quir123/8479
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="",CINE PREMIUM | STAR CHANNEL SD
+http://tv5full.xyz:25461/quir/quir123/1599
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/1200px-Star_Classics_2020.svg.png",CINE PREMIUM | STAR CLASSICS SD
+http://tv5full.xyz:25461/quir/quir123/39807
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png?region=0,0,500,575",CINE PREMIUM | STAR LIFE  SD
+http://tv5full.xyz:25461/quir/quir123/1575
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="",CINE PREMIUM | STAR HITS SD
+http://tv5full.xyz:25461/quir/quir123/1573
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarSeries_Logo2021_FondoClaro.png.cb78e0cf215c6116d1ea8d275cc08387.png",CINE PREMIUM | STAR SERIES SD
+http://tv5full.xyz:25461/quir/quir123/39808
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://cdn.mitvstatic.com/channels/co_a-e-mundo-hd_m.png",CINE PREMIUM | A&E SD
+http://tv5full.xyz:25461/quir/quir123/1588
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://www.newslinereport.com/online/nota_cinemax-se-posiciona-entre-lo-8-canales-con-ms-audiencia.jpg",CINE PREMIUM | Cinemax SD
+http://tv5full.xyz:25461/quir/quir123/8477
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cinecanal-1_m.png",CINE PREMIUM | Cinecanal SD
+http://tv5full.xyz:25461/quir/quir123/1585
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png",CINE PREMIUM | De Pelicula SD
+http://tv5full.xyz:25461/quir/quir123/1583
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fx_m.png",CINE PREMIUM | FX SD
+http://tv5full.xyz:25461/quir/quir123/1582
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",CINE PREMIUM | SONY CHANNEL SD
+http://tv5full.xyz:25461/quir/quir123/1567
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1200px-TCM_logo.svg.png",CINE PREMIUM | TCM SD
+http://tv5full.xyz:25461/quir/quir123/1566
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1024px-TNT.svg.png",CINE PREMIUM | TNT SD
+http://tv5full.xyz:25461/quir/quir123/1564
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/2999.png",CINE PREMIUM | TNT Series SD
+http://tv5full.xyz:25461/quir/quir123/1562
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://img2.freepng.es/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg",CINE PREMIUM | Universal Channel SD
+http://tv5full.xyz:25461/quir/quir123/1561
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="",CULTURA | Animal Planet SD
+http://tv5full.xyz:25461/quir/quir123/1514
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU2MDc2MTgyMTAwNTE4NjQw/discovery-channel-logo_resized_bc.png",CULTURA | Discovery Channel SD
+http://tv5full.xyz:25461/quir/quir123/1512
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://cdn.mitvstatic.com/channels/co_history-hd_m.png",CULTURA | History SD
+http://tv5full.xyz:25461/quir/quir123/1501
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png",CULTURA | Investigation Discovery SD
+http://tv5full.xyz:25461/quir/quir123/1499
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="",CULTURA | National Geographic SD
+http://tv5full.xyz:25461/quir/quir123/1495
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",CULTURA | H2 SD
+http://tv5full.xyz:25461/quir/quir123/39809
+#EXTINF:-1 group-title="-CANALES SD-" tvg-logo="",CINE PREMIUM | STAR CINEMA SD
+http://tv5full.xyz:25461/quir/quir123/1528
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="http://ecuaplaytv.com:8000/images/04656488762b58e1ea0cec3aa01a9ec9.jpg",Puerto Rico | Mega Tv
+http://tv5full.xyz:25461/quir/quir123/11318
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="http://ecuaplaytv.com:8000/images/e1924221a2b9eafe267aa10b3f4b7946.jpg",Puerto Rico|| Univision
+http://tv5full.xyz:25461/quir/quir123/11321
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/1200px-WAPA-TV_logo.svg.png",Puerto Rico | Wapa 2
+http://tv5full.xyz:25461/quir/quir123/11322
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="http://logosolusa.com/wp-content/uploads/2016/10/WAPA-TV-(Puerto-Rico)-Logo-1.png",Puerto Rico | Wapa
+http://tv5full.xyz:25461/quir/quir123/11323
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2ACM2uvZsbJiLOC_pmKbXzPALd9tHDO_4yHXYNXMedcW9plLu",Puerto Rico | Wipr Canal 6
+http://tv5full.xyz:25461/quir/quir123/11328
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://static.lared.cl/wp-content/uploads/2019/08/27122914/nothumb.jpg",CHILE | LA RED
+http://tv5full.xyz:25461/quir/quir123/1385
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/11/file_20181121105614.jpg",CHILE | TV+
+http://tv5full.xyz:25461/quir/quir123/1386
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://lisa.zapping.live/uploads/canales/color/tvchile.jpg",CHILE | TV CHILE
+http://tv5full.xyz:25461/quir/quir123/1388
+#EXTINF:-1 group-title="CHILE" tvg-logo="",CHILE | TVN
+http://tv5full.xyz:25461/quir/quir123/1390
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png",CHILE | MEGA
+http://tv5full.xyz:25461/quir/quir123/1393
+#EXTINF:-1 group-title="CHILE" tvg-logo="",CHILE* | MEGA PLUS
+http://tv5full.xyz:25461/quir/quir123/1394
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://www.anda.cl/wp-content/uploads/2018/08/chilevision-portada-220x300.jpg",CHILE | CHILEVISION
+http://tv5full.xyz:25461/quir/quir123/1396
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Canal_13_%28Chile%29_logo.svg/478px-Canal_13_%28Chile%29_logo.svg.png",CHILE | CANAL 13
+http://tv5full.xyz:25461/quir/quir123/1398
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-k9J8cu3IVbWTj5rz2-cRvPKmL203KlMDpLA=s900-c-k-c0xffffffff-no-rj-mo",CHILE | CNN CHILE
+http://tv5full.xyz:25461/quir/quir123/3096
+#EXTINF:-1 group-title="CHILE",CTNi
+http://tv5full.xyz:25461/quir/quir123/3965
+#EXTINF:-1 group-title="CHILE" tvg-logo="",CHILE | 24 HORAS
+http://tv5full.xyz:25461/quir/quir123/4229
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png",Chile | ETC TV HD
+http://tv5full.xyz:25461/quir/quir123/18307
+#EXTINF:-1 group-title="CHILE" tvg-logo="",Chile | Rec TV
+http://tv5full.xyz:25461/quir/quir123/19367
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://www.anda.cl/wp-content/uploads/2018/08/chilevision-portada-220x300.jpg",CHILE* | CHILEVISION
+http://tv5full.xyz:25461/quir/quir123/25566
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Canal_13_%28Chile%29_logo.svg/478px-Canal_13_%28Chile%29_logo.svg.png",CHILE* | CANAL 13
+http://tv5full.xyz:25461/quir/quir123/25567
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png",CHILE* | MEGA
+http://tv5full.xyz:25461/quir/quir123/26356
+#EXTINF:-1 group-title="CHILE" tvg-logo="",CHILE* | TVN
+http://tv5full.xyz:25461/quir/quir123/26357
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-SUSMLk6Nd9s/XajptfrmHrI/AAAAAAAAASc/lEEtobK_kGkKh2qqZO3G-eguobRQWKUJwCLcBGAsYHQ/s200/12.png",CHI-La Red (M)(720)
+http://tv5full.xyz:25461/quir/quir123/44984
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-SUSMLk6Nd9s/XajptfrmHrI/AAAAAAAAASc/lEEtobK_kGkKh2qqZO3G-eguobRQWKUJwCLcBGAsYHQ/s200/12.png",CHI-La Red TV (e)(1080)
+http://tv5full.xyz:25461/quir/quir123/44985
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-SUSMLk6Nd9s/XajptfrmHrI/AAAAAAAAASc/lEEtobK_kGkKh2qqZO3G-eguobRQWKUJwCLcBGAsYHQ/s200/12.png",CHI-LA Red TV (e)(720)
+http://tv5full.xyz:25461/quir/quir123/44986
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-SUSMLk6Nd9s/XajptfrmHrI/AAAAAAAAASc/lEEtobK_kGkKh2qqZO3G-eguobRQWKUJwCLcBGAsYHQ/s200/12.png",CHI-LA Red TV (e)(SD)
+http://tv5full.xyz:25461/quir/quir123/44987
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-wk9aj76dkuM/XajpxUSsJoI/AAAAAAAAATQ/aWvKWEaQGts9yYJ5nt0UuBRpN4yd_T_fACLcBGAsYHQ/s200/9.png",CHI-TV+ (e)(1080)
+http://tv5full.xyz:25461/quir/quir123/44988
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-wk9aj76dkuM/XajpxUSsJoI/AAAAAAAAATQ/aWvKWEaQGts9yYJ5nt0UuBRpN4yd_T_fACLcBGAsYHQ/s200/9.png",CHI-TV+ (e)(720)
+http://tv5full.xyz:25461/quir/quir123/44989
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-wk9aj76dkuM/XajpxUSsJoI/AAAAAAAAATQ/aWvKWEaQGts9yYJ5nt0UuBRpN4yd_T_fACLcBGAsYHQ/s200/9.png",CHI-TV+ (e)(SD)
+http://tv5full.xyz:25461/quir/quir123/44990
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-0MX8CrqCS_Q/XajpwmY8XSI/AAAAAAAAATE/DjSc2WVCh9cxoTOZVi9CxkRUA8LZq0OSwCLcBGAsYHQ/s200/6.png",CHI-TVN (e)(1080)
+http://tv5full.xyz:25461/quir/quir123/44991
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-0MX8CrqCS_Q/XajpwmY8XSI/AAAAAAAAATE/DjSc2WVCh9cxoTOZVi9CxkRUA8LZq0OSwCLcBGAsYHQ/s200/6.png",CHI-TVN (e)(720)
+http://tv5full.xyz:25461/quir/quir123/44992
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-0MX8CrqCS_Q/XajpwmY8XSI/AAAAAAAAATE/DjSc2WVCh9cxoTOZVi9CxkRUA8LZq0OSwCLcBGAsYHQ/s200/6.png",CHI-TVN (e)(SD)
+http://tv5full.xyz:25461/quir/quir123/44993
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-0MX8CrqCS_Q/XajpwmY8XSI/AAAAAAAAATE/DjSc2WVCh9cxoTOZVi9CxkRUA8LZq0OSwCLcBGAsYHQ/s200/6.png",CHI-TVN (M)(SD)
+http://tv5full.xyz:25461/quir/quir123/44994
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-AUWZ0lqvHw4/XajpwcGPL2I/AAAAAAAAAS8/2mLLh5UN2FYLtwIFNcr2bd6LpqZxOcrJACLcBGAsYHQ/s200/4.png",CHI-Mega (e)(1080)
+http://tv5full.xyz:25461/quir/quir123/44995
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-AUWZ0lqvHw4/XajpwcGPL2I/AAAAAAAAAS8/2mLLh5UN2FYLtwIFNcr2bd6LpqZxOcrJACLcBGAsYHQ/s200/4.png",CHI-Mega (e)(720)
+http://tv5full.xyz:25461/quir/quir123/44996
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-AUWZ0lqvHw4/XajpwcGPL2I/AAAAAAAAAS8/2mLLh5UN2FYLtwIFNcr2bd6LpqZxOcrJACLcBGAsYHQ/s200/4.png",CHI-Mega (e)(SD)
+http://tv5full.xyz:25461/quir/quir123/44997
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-AUWZ0lqvHw4/XajpwcGPL2I/AAAAAAAAAS8/2mLLh5UN2FYLtwIFNcr2bd6LpqZxOcrJACLcBGAsYHQ/s200/4.png",CHI-Mega (M)(SD)
+http://tv5full.xyz:25461/quir/quir123/44998
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-aKKnE5zelf0/XajpwuQbiiI/AAAAAAAAATA/5f4gU1aoAV8DeFtUKrBem58nsrj8P8HHQCLcBGAsYHQ/s200/5.png",CHI-Chilevision (e)(1080)
+http://tv5full.xyz:25461/quir/quir123/44999
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-aKKnE5zelf0/XajpwuQbiiI/AAAAAAAAATA/5f4gU1aoAV8DeFtUKrBem58nsrj8P8HHQCLcBGAsYHQ/s200/5.png",CHI-Chilevision (e)(720)
+http://tv5full.xyz:25461/quir/quir123/45000
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-aKKnE5zelf0/XajpwuQbiiI/AAAAAAAAATA/5f4gU1aoAV8DeFtUKrBem58nsrj8P8HHQCLcBGAsYHQ/s200/5.png",CHI-Chilevision (e)(SD)
+http://tv5full.xyz:25461/quir/quir123/45001
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png",CHI-13 (e)(1080)
+http://tv5full.xyz:25461/quir/quir123/45002
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png",CHI-13 (e)(720)
+http://tv5full.xyz:25461/quir/quir123/45003
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png",CHI-13 (e)(SD)
+http://tv5full.xyz:25461/quir/quir123/45004
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png",CHI-13 (M)(SD)
+http://tv5full.xyz:25461/quir/quir123/45005
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png",CHI-13C (e)(720)
+http://tv5full.xyz:25461/quir/quir123/45006
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png",CHI-13C (M)(SD)
+http://tv5full.xyz:25461/quir/quir123/45007
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-q3LsPocPUvA/Xajpuil_n6I/AAAAAAAAASo/pOK1mbX7lnA3mbqN-qqdVSNbx6ea33PEgCLcBGAsYHQ/s200/15.png",CHI-24 Horas (e)(1080)
+http://tv5full.xyz:25461/quir/quir123/45008
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-q3LsPocPUvA/Xajpuil_n6I/AAAAAAAAASo/pOK1mbX7lnA3mbqN-qqdVSNbx6ea33PEgCLcBGAsYHQ/s200/15.png",CHI-24 Horas (e)(720)
+http://tv5full.xyz:25461/quir/quir123/45009
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-q3LsPocPUvA/Xajpuil_n6I/AAAAAAAAASo/pOK1mbX7lnA3mbqN-qqdVSNbx6ea33PEgCLcBGAsYHQ/s200/15.png",CHI-24 Horas (e)(SD)
+http://tv5full.xyz:25461/quir/quir123/45010
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-q3LsPocPUvA/Xajpuil_n6I/AAAAAAAAASo/pOK1mbX7lnA3mbqN-qqdVSNbx6ea33PEgCLcBGAsYHQ/s200/15.png",CHI-24 Horas (M)(720)
+http://tv5full.xyz:25461/quir/quir123/45012
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-1MYo2aoLlTg/XdIRAtMZA4I/AAAAAAAAA2M/2vPXTAlEaf4uuLj4AMSo37JfShkRdtzrgCLcBGAsYHQ/s200/44.png",CHI-CNN (e)(1080)
+http://tv5full.xyz:25461/quir/quir123/45014
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-1MYo2aoLlTg/XdIRAtMZA4I/AAAAAAAAA2M/2vPXTAlEaf4uuLj4AMSo37JfShkRdtzrgCLcBGAsYHQ/s200/44.png",CHI-CNN (e)(720)
+http://tv5full.xyz:25461/quir/quir123/45015
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-1MYo2aoLlTg/XdIRAtMZA4I/AAAAAAAAA2M/2vPXTAlEaf4uuLj4AMSo37JfShkRdtzrgCLcBGAsYHQ/s200/44.png",CHI-CNN (e)(SD)
+http://tv5full.xyz:25461/quir/quir123/45016
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-1MYo2aoLlTg/XdIRAtMZA4I/AAAAAAAAA2M/2vPXTAlEaf4uuLj4AMSo37JfShkRdtzrgCLcBGAsYHQ/s200/44.png",CHI-CNN Chile (M)(SD)
+http://tv5full.xyz:25461/quir/quir123/45017
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-08UXr5rCW5A/XajpxIJ8MZI/AAAAAAAAATI/wUGS1sufclQdgaVE0-Smam8E_LHIwD6RQCLcBGAsYHQ/s200/7.png",CHI-ETC (e)(1080)
+http://tv5full.xyz:25461/quir/quir123/45019
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-08UXr5rCW5A/XajpxIJ8MZI/AAAAAAAAATI/wUGS1sufclQdgaVE0-Smam8E_LHIwD6RQCLcBGAsYHQ/s200/7.png",CHI-ETC (e)(720)
+http://tv5full.xyz:25461/quir/quir123/45020
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-08UXr5rCW5A/XajpxIJ8MZI/AAAAAAAAATI/wUGS1sufclQdgaVE0-Smam8E_LHIwD6RQCLcBGAsYHQ/s200/7.png",CHI-ETC (e)(SD)
+http://tv5full.xyz:25461/quir/quir123/45021
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="",ECUADOR | TC MI CANAL HD  (A)
+http://tv5full.xyz:25461/quir/quir123/1302
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://pbs.twimg.com/profile_images/1127978058504339461/lbChzuL4_400x400.png",ECUADOR | RTS
+http://tv5full.xyz:25461/quir/quir123/1303
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://pbs.twimg.com/profile_images/986970273609109504/WGiYE_i2.jpg",ECUADOR | TVC HD (P)
+http://tv5full.xyz:25461/quir/quir123/1304
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png",ECUADOR | ECUAVISA [Gquil]
+http://tv5full.xyz:25461/quir/quir123/1306
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png",ECUADOR | ECUAVISA [quito]
+http://tv5full.xyz:25461/quir/quir123/1307
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="",ECUADOR | OROMAR TV HD
+http://tv5full.xyz:25461/quir/quir123/1308
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://pbs.twimg.com/profile_images/1047132789617889280/5z7LHnkv_400x400.jpg",ECUADOR | CANELA TV
+http://tv5full.xyz:25461/quir/quir123/1311
+#EXTINF:-1 group-title="ECUADOR",EC | Telecaribe *
+http://tv5full.xyz:25461/quir/quir123/6346
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png",ECUADOR | TELEAMAZONAS HD [Quito]
+http://tv5full.xyz:25461/quir/quir123/29513
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="",EC | CANAL DEL FUTBOL HD
+http://tv5full.xyz:25461/quir/quir123/41205
+#EXTINF:-1 group-title="COLOMBIA",COLOMBIA | NTN24 (p)
+http://tv5full.xyz:25461/quir/quir123/1275
+#EXTINF:-1 group-title="COLOMBIA",COLOMBIA | CABLE NOTICIAS
+http://tv5full.xyz:25461/quir/quir123/1276
+#EXTINF:-1 group-title="COLOMBIA",COLOMBIA | CANAL UNO
+http://tv5full.xyz:25461/quir/quir123/1277
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg",COLOMBIA | CARACOL
+http://tv5full.xyz:25461/quir/quir123/1278
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg",COLOMBIA | CARACOL FHD (e)
+http://tv5full.xyz:25461/quir/quir123/1279
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/1200px-City_tv_Bogot%C3%A1_logo.svg.png",COLOMBIA | CITY TV
+http://tv5full.xyz:25461/quir/quir123/1280
+#EXTINF:-1 group-title="COLOMBIA",COLOMBIA | RCN
+http://tv5full.xyz:25461/quir/quir123/1282
+#EXTINF:-1 group-title="COLOMBIA",COLOMBIA | RCN TELENOVELAS (A)
+http://tv5full.xyz:25461/quir/quir123/1283
+#EXTINF:-1 group-title="COLOMBIA",COLOMBIA | TELEANTIOQUIA *
+http://tv5full.xyz:25461/quir/quir123/1284
+#EXTINF:-1 group-title="COLOMBIA",COLOMBIA | TELECAFE (A)
+http://tv5full.xyz:25461/quir/quir123/1285
+#EXTINF:-1 group-title="COLOMBIA",COLOMBIA | TELEPACIFICO (L)
+http://tv5full.xyz:25461/quir/quir123/1287
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trece2017.png",COLOMBIA | TRECE (L)
+http://tv5full.xyz:25461/quir/quir123/1288
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600.jpg",COLOMBIA  | Win Sports +
+http://tv5full.xyz:25461/quir/quir123/9136
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png",COLOMBIA | HOLA TV
+http://tv5full.xyz:25461/quir/quir123/11230
+#EXTINF:-1 group-title="-DEPORTES LATINO-" tvg-logo="",DEPORTES LAT | Win Sports + HD
+http://tv5full.xyz:25461/quir/quir123/5246
+#EXTINF:-1 group-title="-DEPORTES LATINO-" tvg-logo="https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600.jpg",DEPORTES LAT | Win Sports + SD (c)
+http://tv5full.xyz:25461/quir/quir123/5245
+#EXTINF:-1 group-title="-DEPORTES LATINO-",DEPORTES LAT | WIN SPORTS
+http://tv5full.xyz:25461/quir/quir123/1731
+#EXTINF:-1 group-title="-DEPORTES LATINO-",DEPORTES LAT | WIN SPORTS OP 2
+http://tv5full.xyz:25461/quir/quir123/1732
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://imagenes.canalrcn.com/ImgCanal/imagenes/rcn-tevision-3.png",COLOMBIA | RCN FHD
+http://tv5full.xyz:25461/quir/quir123/12747
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Caracol_Internacional_2017.png/1200px-Caracol_Internacional_2017.png",CO | Caracol Internacional
+http://tv5full.xyz:25461/quir/quir123/19079
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/CaracolHD22019.png",COLOMBIA | CARACOL HD2
+http://tv5full.xyz:25461/quir/quir123/22370
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="",COL | TELEMEDELLIN
+http://tv5full.xyz:25461/quir/quir123/42367
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/rcn.png",RCN Radio - 93.9 (Colombia)
+http://tv5full.xyz:25461/quir/quir123/42719
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/el-sol.png",Radio EL Sol RCN - (Colombia)
+http://tv5full.xyz:25461/quir/quir123/42720
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/la-fm.png",La FM - 94.9 (Colombia)
+http://tv5full.xyz:25461/quir/quir123/42722
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/radioactiva.png",Radio Acktiva (Colombia)
+http://tv5full.xyz:25461/quir/quir123/42723
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://fecoba.org.ar/wp-content/uploads/2020/05/tv_publica_logo.jpg",ARGENTINA | TV PUBLICA
+http://tv5full.xyz:25461/quir/quir123/1257
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://lh3.googleusercontent.com/pL331qhVv3KATHzIaVnkrQhyNRrV6YWLIzf0SctwFR8sUMY8aCYobe70OTdbQPyVkuc",ARGENTINA | TN NOTICIAS
+http://tv5full.xyz:25461/quir/quir123/1258
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png",ARGENTINA | TELESUR
+http://tv5full.xyz:25461/quir/quir123/1259
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://yt3.ggpht.com/-FtoMSw1tx9A/AAAAAAAAAAI/AAAAAAAAAAA/lg-itPfRcrQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",ARGENTINA | TELEMAX
+http://tv5full.xyz:25461/quir/quir123/1260
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",ARGENTINA | TELEFE (ST)
+http://tv5full.xyz:25461/quir/quir123/1261
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZTxynbD3i-TAHMuUHO7rgx8NmYRP0GRyEXg&usqp=CAU",ARGENTINA | RURAL (ST)
+http://tv5full.xyz:25461/quir/quir123/1262
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png",ARGENTINA | GLITZ
+http://tv5full.xyz:25461/quir/quir123/1265
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png",ARGENTINA | GARAGE
+http://tv5full.xyz:25461/quir/quir123/1266
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/01ccf-cronica-hd.png",ARGENTINA | CRONICA
+http://tv5full.xyz:25461/quir/quir123/1267
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://yt3.ggpht.com/a/AATXAJxnaEZa9KmwLXrYqDcMZTf88woSug34Gkqy5uE_5Q=s900-c-k-c0xffffffff-no-rj-mo",ARGENTINA | C5N
+http://tv5full.xyz:25461/quir/quir123/1269
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",ARGENTINA | A24 (ST)
+http://tv5full.xyz:25461/quir/quir123/1270
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",ARGENTINA | AMERICA (st)
+http://tv5full.xyz:25461/quir/quir123/1271
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/200px-Canal_9_2015.png",ARGENTINA | EL NUEVE HD (ST)
+http://tv5full.xyz:25461/quir/quir123/3354
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ytimg.com/vi/w4uIrUJO5w8/maxresdefault.jpg",ARGENTINA | DEPORTV
+http://tv5full.xyz:25461/quir/quir123/3355
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",ARGENTINA | EL TRECE OP 2
+http://tv5full.xyz:25461/quir/quir123/3950
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",ARG | el trece op 3 (w)
+http://tv5full.xyz:25461/quir/quir123/4198
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://yt3.ggpht.com/a/AATXAJxnaEZa9KmwLXrYqDcMZTf88woSug34Gkqy5uE_5Q=s900-c-k-c0xffffffff-no-rj-mo",ARGENTINA | C5N
+http://tv5full.xyz:25461/quir/quir123/15280
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/LogoTelevida.png",ARGENTINA | CANAL 9 TELEVIDA MENDOZA
+http://tv5full.xyz:25461/quir/quir123/15281
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",ARGENTINA | CANAL 9 HD
+http://tv5full.xyz:25461/quir/quir123/15282
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_del_Senado_de_Argentina.svg/245px-Logo_del_Senado_de_Argentina.svg.png",ARGENTINA | CANAL DEL SENADO
+http://tv5full.xyz:25461/quir/quir123/15285
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/2000px-La-Nacion-Mas-Logo.svg.png",ARGENTINA | LN HD
+http://tv5full.xyz:25461/quir/quir123/15291
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png",ARGENTINA | PAKA PAKA
+http://tv5full.xyz:25461/quir/quir123/15293
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png",ARGENTINA | TN
+http://tv5full.xyz:25461/quir/quir123/15296
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",ARGENTINA | AMERICA (A)
+http://tv5full.xyz:25461/quir/quir123/21366
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="",ARGENTINA | TELEFE
+http://tv5full.xyz:25461/quir/quir123/21367
+#EXTINF:-1 group-title="PERÚ",PERU | GOL PERU HD *
+http://tv5full.xyz:25461/quir/quir123/1240
+#EXTINF:-1 group-title="PERÚ",PERU | MOVISTAR DEPORTES
+http://tv5full.xyz:25461/quir/quir123/1241
+#EXTINF:-1 group-title="PERÚ",PERU | ANTARES (A)
+http://tv5full.xyz:25461/quir/quir123/1243
+#EXTINF:-1 group-title="PERÚ",PERU | PERU MAGICO (p)
+http://tv5full.xyz:25461/quir/quir123/1244
+#EXTINF:-1 group-title="PERÚ" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_0-eR63_KuyYBVr9HUxsQwQbleZHPe7Aro9g=s900-c-k-c0xffffffff-no-rj-mo",Peru | LATINA SD *
+http://tv5full.xyz:25461/quir/quir123/1245
+#EXTINF:-1 group-title="PERÚ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png",PERU | MOVISTAR PLUS
+http://tv5full.xyz:25461/quir/quir123/1247
+#EXTINF:-1 group-title="PERÚ" tvg-logo="https://cde.canaln.pe/actualidad-canal-n-cumple-18-anos-informando-peruanos-n282882-646x363-381488.jpg",PERU | CANAL N
+http://tv5full.xyz:25461/quir/quir123/1248
+#EXTINF:-1 group-title="PERÚ" tvg-logo="https://i.pinimg.com/originals/2d/87/83/2d878311084cf0263cb40cdd02d76616.jpg",PERU | CMD SD *
+http://tv5full.xyz:25461/quir/quir123/1250
+#EXTINF:-1 group-title="PERÚ" tvg-logo="",PERU | PANAMERICANA HD (p)
+http://tv5full.xyz:25461/quir/quir123/1251
+#EXTINF:-1 group-title="PERÚ" tvg-logo="https://i0.wp.com/www.mercadonegro.pe/wp-content/uploads/2017/02/2fba4d503aa1c7460fda2213155810b8.png?fit=400%2C400&ssl=1",PERU | AMERICA TV  (a)
+http://tv5full.xyz:25461/quir/quir123/1252
+#EXTINF:-1 group-title="PERÚ" tvg-logo="",PERU | ATV
+http://tv5full.xyz:25461/quir/quir123/1253
+#EXTINF:-1 group-title="PERÚ" tvg-logo="",PERU | TV Peru HD
+http://tv5full.xyz:25461/quir/quir123/1254
+#EXTINF:-1 group-title="PERÚ" tvg-logo="",PERU | IPE  (q)
+http://tv5full.xyz:25461/quir/quir123/1255
+#EXTINF:-1 group-title="PERÚ" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_0-eR63_KuyYBVr9HUxsQwQbleZHPe7Aro9g=s900-c-k-c0xffffffff-no-rj-mo",PERU | LATINA HD (e).
+http://tv5full.xyz:25461/quir/quir123/1256
+#EXTINF:-1 group-title="PERÚ" tvg-logo="",PERU | RPP (e)
+http://tv5full.xyz:25461/quir/quir123/4196
+#EXTINF:-1 group-title="PERÚ",PERU | EXITOSA (E)
+http://tv5full.xyz:25461/quir/quir123/5779
+#EXTINF:-1 group-title="PERÚ",PERU | AMERICA FHD
+http://tv5full.xyz:25461/quir/quir123/5780
+#EXTINF:-1 group-title="PERÚ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/The_DirecTV_logo.png/1200px-The_DirecTV_logo.png",PERU | DIRECTV SPORTS PERU
+http://tv5full.xyz:25461/quir/quir123/22323
+#EXTINF:-1 group-title="PERÚ",Willax HD ©
+http://tv5full.xyz:25461/quir/quir123/42712
+#EXTINF:-1 group-title="PERÚ" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/magica-lima.png",Radio Magica - 88.3 (Peru)
+http://tv5full.xyz:25461/quir/quir123/42713
+#EXTINF:-1 group-title="BOLIVIA",BOLIVIA | ATB
+http://tv5full.xyz:25461/quir/quir123/1232
+#EXTINF:-1 group-title="BOLIVIA",BOLIVIA | PAT LA PAZ  (E)
+http://tv5full.xyz:25461/quir/quir123/1233
+#EXTINF:-1 group-title="BOLIVIA",BOLIVIA | UNITEL SD
+http://tv5full.xyz:25461/quir/quir123/1234
+#EXTINF:-1 group-title="BOLIVIA",BOLIVIA | RED UNO HD
+http://tv5full.xyz:25461/quir/quir123/1235
+#EXTINF:-1 group-title="BOLIVIA",BOLIVIA | BOLIVISION HD
+http://tv5full.xyz:25461/quir/quir123/1236
+#EXTINF:-1 group-title="BOLIVIA",BOLIVIA | BOLIVIA TV SD
+http://tv5full.xyz:25461/quir/quir123/1237
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://pbs.twimg.com/profile_images/889663440620531712/JlKtXQYa_400x400.jpg",BOLIVIA | Gigavision
+http://tv5full.xyz:25461/quir/quir123/15191
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="http://mylatinotv.com:8080:8080/images/bolivia/rtp_bo.jpg",BOLIVIA | RTP
+http://tv5full.xyz:25461/quir/quir123/15201
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="http://mylatinotv.com:8080/images/bolivia/tvu_bo.jpg",BOLIVIA | TV U
+http://tv5full.xyz:25461/quir/quir123/15204
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="http://mylatinotv.com:8080/images/bolivia/unitel.jpg",BOLIVIA ||| Unitel*
+http://tv5full.xyz:25461/quir/quir123/15207
+#EXTINF:-1 group-title="BOLIVIA",BOLIVIA | PAT SANTA CRUZ
+http://tv5full.xyz:25461/quir/quir123/25755
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://lh3.googleusercontent.com/-srgTFcKOa90/X4yz-_574eI/AAAAAAAA6gA/dBaBDVECSbUEZ1SXE9Sv3s-ZWJkOUnmGgCK8BGAsYHg/s0/2020-10-18.png",TV HD Tropical
+http://tv5full.xyz:25461/quir/quir123/39188
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png",Bolivia - Retro Plus TV
+http://tv5full.xyz:25461/quir/quir123/39190
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | VAMOS sports
+http://tv5full.xyz:25461/quir/quir123/6111
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | AXN
+http://tv5full.xyz:25461/quir/quir123/6125
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | AXN WHITE
+http://tv5full.xyz:25461/quir/quir123/6126
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | BABY TV
+http://tv5full.xyz:25461/quir/quir123/6127
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | CALLE 13
+http://tv5full.xyz:25461/quir/quir123/6131
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | ODISEA
+http://tv5full.xyz:25461/quir/quir123/6132
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | CAZA Y PESCA
+http://tv5full.xyz:25461/quir/quir123/6135
+#EXTINF:-1 group-title="-ESPAÑA-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Comedy_Central_2011_HD.svg/1200px-Comedy_Central_2011_HD.svg.png",ESPAÑA | COMEDY CENTRAL
+http://tv5full.xyz:25461/quir/quir123/6138
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | CRIMEN INVESTIGACION
+http://tv5full.xyz:25461/quir/quir123/6140
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | TOROS TV
+http://tv5full.xyz:25461/quir/quir123/6141
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | HISTORIA
+http://tv5full.xyz:25461/quir/quir123/6145
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | HOLLYWOOD
+http://tv5full.xyz:25461/quir/quir123/6146
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | LA 1
+http://tv5full.xyz:25461/quir/quir123/6148
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | LA SEXTA
+http://tv5full.xyz:25461/quir/quir123/6149
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | MEGA TV
+http://tv5full.xyz:25461/quir/quir123/6150
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | MOVISTAR ESTRENOS
+http://tv5full.xyz:25461/quir/quir123/6151
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | MOVISTAR ACCION
+http://tv5full.xyz:25461/quir/quir123/6153
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | MOVISTAR CINE DOC. Y ROLL.
+http://tv5full.xyz:25461/quir/quir123/6154
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | MOVISTAR COMEDIA
+http://tv5full.xyz:25461/quir/quir123/6155
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | MOVISTAR DRAMA
+http://tv5full.xyz:25461/quir/quir123/6156
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | MOVISTAR FORMULA 1
+http://tv5full.xyz:25461/quir/quir123/6157
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | MOVISTAR SERIES
+http://tv5full.xyz:25461/quir/quir123/6158
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | MOVISTAR SERIES MANIA
+http://tv5full.xyz:25461/quir/quir123/6159
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | ENERGY
+http://tv5full.xyz:25461/quir/quir123/6160
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | DKISS
+http://tv5full.xyz:25461/quir/quir123/6162
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA  | DIVINITY
+http://tv5full.xyz:25461/quir/quir123/6163
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | DISNEY XD
+http://tv5full.xyz:25461/quir/quir123/6164
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | DISNEY CHANEL
+http://tv5full.xyz:25461/quir/quir123/6165
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | DE CASA
+http://tv5full.xyz:25461/quir/quir123/6166
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | DISNEY JR
+http://tv5full.xyz:25461/quir/quir123/6168
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | MOVISTAR CINE
+http://tv5full.xyz:25461/quir/quir123/6169
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | CUATRO
+http://tv5full.xyz:25461/quir/quir123/6170
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | NOVA
+http://tv5full.xyz:25461/quir/quir123/6171
+#EXTINF:-1 group-title="-ESPAÑA-",ESPAÑA | LA 2
+http://tv5full.xyz:25461/quir/quir123/6172
+#EXTINF:-1 group-title="-ESPAÑA-" tvg-logo="https://cualeselrollo.com/wp-content/uploads/2019/01/CNN_Espa%C3%B1ol_Logo_Viejo.png",ESPAÑA | CNN EN ESPAÑOL
+http://tv5full.xyz:25461/quir/quir123/11228
+#EXTINF:-1 group-title="-ESPAÑA-" tvg-logo="https://pbs.twimg.com/profile_images/1241675802560868358/LCQtRUST_400x400.jpg",ESPAÑA  | ANTENA 3 FHD
+http://tv5full.xyz:25461/quir/quir123/18362
+#EXTINF:-1 group-title="-ESPAÑA-" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg",españa - A3Series FHD
+http://tv5full.xyz:25461/quir/quir123/36065
+#EXTINF:-1 group-title="-MÉXICO-",MEXICO | ADN 40 FHD (A)
+http://tv5full.xyz:25461/quir/quir123/1209
+#EXTINF:-1 group-title="-MÉXICO-",MEXICO | AZ Cinema HD *
+http://tv5full.xyz:25461/quir/quir123/1210
+#EXTINF:-1 group-title="-MÉXICO-",MEXICO | AZ Click FHD (L)
+http://tv5full.xyz:25461/quir/quir123/1211
+#EXTINF:-1 group-title="-MÉXICO-",MEXICO | AZ Corazon HD
+http://tv5full.xyz:25461/quir/quir123/1212
+#EXTINF:-1 group-title="-MÉXICO-",MEXICO | AZ Mundo FHD
+http://tv5full.xyz:25461/quir/quir123/1213
+#EXTINF:-1 group-title="-MÉXICO-",MEXICO | AyM Sports SD
+http://tv5full.xyz:25461/quir/quir123/1214
+#EXTINF:-1 group-title="-MÉXICO-",MEXICO | Azteca 7
+http://tv5full.xyz:25461/quir/quir123/1215
+#EXTINF:-1 group-title="-MÉXICO-",MEXICO | Bandamax SD
+http://tv5full.xyz:25461/quir/quir123/1216
+#EXTINF:-1 group-title="-MÉXICO-",MEXICO | UNICABLE
+http://tv5full.xyz:25461/quir/quir123/1217
+#EXTINF:-1 group-title="-MÉXICO-" tvg-logo="",MEXICO | TELEHIT
+http://tv5full.xyz:25461/quir/quir123/1219
+#EXTINF:-1 group-title="-MÉXICO-",MEXICO | NTN24
+http://tv5full.xyz:25461/quir/quir123/1220
+#EXTINF:-1 group-title="-MÉXICO-",MEXICO | MULTIMEDIOS HD
+http://tv5full.xyz:25461/quir/quir123/1222
+#EXTINF:-1 group-title="-MÉXICO-",MEXICO | MULTIMEDIOS *
+http://tv5full.xyz:25461/quir/quir123/1223
+#EXTINF:-1 group-title="-MÉXICO-",MEXICO | MEXIQUENSE
+http://tv5full.xyz:25461/quir/quir123/1224
+#EXTINF:-1 group-title="-MÉXICO-",MEXICO | LAS ESTRELLAS
+http://tv5full.xyz:25461/quir/quir123/1225
+#EXTINF:-1 group-title="-MÉXICO-" tvg-logo="",MEXICO | LAS ESTRELLAS
+http://tv5full.xyz:25461/quir/quir123/1226
+#EXTINF:-1 group-title="-MÉXICO-",MEXICO | TELEFORMULA TV *
+http://tv5full.xyz:25461/quir/quir123/1227
+#EXTINF:-1 group-title="-MÉXICO-",MEXICO | CANAL ONCE (S)
+http://tv5full.xyz:25461/quir/quir123/1228
+#EXTINF:-1 group-title="-MÉXICO-",MEXICO | CANAL 5
+http://tv5full.xyz:25461/quir/quir123/1229
+#EXTINF:-1 group-title="-MÉXICO-",MEXICO | DISTRITO COMEDIA *
+http://tv5full.xyz:25461/quir/quir123/1230
+#EXTINF:-1 group-title="-MÉXICO-" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tlnovelas_m.png",MEXICO | TLNovelas (ST)
+http://tv5full.xyz:25461/quir/quir123/3398
+#EXTINF:-1 group-title="-MÉXICO-" tvg-logo="",MEXICO | AZTECA UNO *
+http://tv5full.xyz:25461/quir/quir123/10102
+#EXTINF:-1 group-title="-MÉXICO-" tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png",MEXICO | HOLA TV *
+http://tv5full.xyz:25461/quir/quir123/11229
+#EXTINF:-1 group-title="-MÉXICO-" tvg-logo="",MEXICO | EL GOURMET
+http://tv5full.xyz:25461/quir/quir123/11231
+#EXTINF:-1 group-title="-MÉXICO-" tvg-logo="https://pbs.twimg.com/profile_images/1166133289758932992/cvo4PpwN_400x400.png",MEXICO | CANAL 5 op 2
+http://tv5full.xyz:25461/quir/quir123/24587
+#EXTINF:-1 group-title="-MÉXICO-" tvg-logo="",TUDN DEPORTES
+http://tv5full.xyz:25461/quir/quir123/24798
+#EXTINF:-1 group-title="-URUGUAY-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Canal_10_logo.jpg",URUGUAY | CANAL 10 SAETA HD (u)
+http://tv5full.xyz:25461/quir/quir123/1174
+#EXTINF:-1 group-title="-URUGUAY-" tvg-logo="https://pbs.twimg.com/profile_images/846441916917002240/AlVftQ9-_400x400.jpg",URUGUAY | VTV HD (U)
+http://tv5full.xyz:25461/quir/quir123/1175
+#EXTINF:-1 group-title="-URUGUAY-" tvg-logo="https://pbs.twimg.com/profile_images/846441916917002240/AlVftQ9-_400x400.jpg",URUGUAY | VTV + HD
+http://tv5full.xyz:25461/quir/quir123/1176
+#EXTINF:-1 group-title="-URUGUAY-",URUGUAY | VTV+ SD
+http://tv5full.xyz:25461/quir/quir123/1177
+#EXTINF:-1 group-title="-URUGUAY-",URUGUAY | LA TELE SD (E)
+http://tv5full.xyz:25461/quir/quir123/1178
+#EXTINF:-1 group-title="-URUGUAY-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Canalcuatrovivoparavos.png",URUGUAY | CANAL 4 MONTECARLO HD (A)
+http://tv5full.xyz:25461/quir/quir123/1179
+#EXTINF:-1 group-title="-URUGUAY-",URUGUAY | LA TELE
+http://tv5full.xyz:25461/quir/quir123/1180
+#EXTINF:-1 group-title="-URUGUAY-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png",URUGUAY | VTV.
+http://tv5full.xyz:25461/quir/quir123/3991
+#EXTINF:-1 group-title="-URUGUAY-" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/9e/96/c8/9e96c8f2-5463-d7e6-1cb1-e4eb5fbc69a5/AppIcon-0-1x_U007emarketing-0-0-85-220-0-6.png/320x0w.png",URU| VERA PLUS HD
+http://tv5full.xyz:25461/quir/quir123/15305
+#EXTINF:-1 group-title="-REPÚBLICA DOMINICANA-" tvg-logo="https://storage.googleapis.com/mmc-cdn-bucket/uploads/2018/04/9aa23ad9-logo-nuevo-cdn.png",R. Dominicana - CDN 2
+http://tv5full.xyz:25461/quir/quir123/27301
+#EXTINF:-1 group-title="-REPÚBLICA DOMINICANA-" tvg-logo="http://tvonline.linkscomdo.netdna-cdn.com/images/sobipro/entries/13/img_digital-quince.jpg",R. Dominicana - Canal Digital 15 HD
+http://tv5full.xyz:25461/quir/quir123/27303
+#EXTINF:-1 group-title="-REPÚBLICA DOMINICANA-" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/cdn1-do.png",R. Dominicana - CDN 37
+http://tv5full.xyz:25461/quir/quir123/27304
+#EXTINF:-1 group-title="-REPÚBLICA DOMINICANA-" tvg-logo="http://144.217.91.146/Logos/Dominican%20Republic/color-vision-9-do.png",R. Dominicana - Color Vision HD
+http://tv5full.xyz:25461/quir/quir123/27308
+#EXTINF:-1 group-title="-REPÚBLICA DOMINICANA-" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/de3fb1f001e5d85b919f7a39170f4cb8.png",R. Dominicana - Microvision
+http://tv5full.xyz:25461/quir/quir123/27310
+#EXTINF:-1 group-title="-REPÚBLICA DOMINICANA-" tvg-logo="http://i.imgur.com/MJJJQqy.gif",R. Dominicana - Romana TV
+http://tv5full.xyz:25461/quir/quir123/27311
+#EXTINF:-1 group-title="-REPÚBLICA DOMINICANA-" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/tele-antillas-do.png",R. Dominicana - Tele Antillas
+http://tv5full.xyz:25461/quir/quir123/27313
+#EXTINF:-1 group-title="-REPÚBLICA DOMINICANA-" tvg-logo="http://144.217.91.146/Logos/Dominican%20Republic/telefuturo-canal23.png",R. Dominicana - Telefuturo
+http://tv5full.xyz:25461/quir/quir123/27315
+#EXTINF:-1 group-title="-REPÚBLICA DOMINICANA-" tvg-logo="http://144.217.91.146/Logos/Dominican%20Republic/telemicro-canal5.png",R. Dominicana - Telemicro
+http://tv5full.xyz:25461/quir/quir123/27317
+#EXTINF:-1 group-title="-REPÚBLICA DOMINICANA-" tvg-logo="http://144.217.91.146/Logos/Dominican%20Republic/telemicro-canal5.png",R. Dominicana - Telemicro HD
+http://tv5full.xyz:25461/quir/quir123/27318
+#EXTINF:-1 group-title="-REPÚBLICA DOMINICANA-" tvg-logo="http://144.217.91.146/Logos/Dominican%20Republic/telesistema.png",R. Dominicana - Telesistema
+http://tv5full.xyz:25461/quir/quir123/27320
+#EXTINF:-1 group-title="-REPÚBLICA DOMINICANA-",R. Dominicana - TV Plata
+http://tv5full.xyz:25461/quir/quir123/27322
+#EXTINF:-1 group-title="-REPÚBLICA DOMINICANA-" tvg-logo="https://emisoradominicana.net/television/wp-content/uploads/2015/06/super-tv-55.jpg",R. Dominicana - Super TV 55
+http://tv5full.xyz:25461/quir/quir123/34454
+#EXTINF:-1 group-title="-REPÚBLICA DOMINICANA-" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjz57z-OlfIFeTz7vbfBJcrOdCIxK9kzY7QTdFH=s900-c-k-c0x00ffffff-no-rj",R. Dominicana - La voz de Maria
+http://tv5full.xyz:25461/quir/quir123/34455
+#EXTINF:-1 group-title="-HONDURAS-",HONDURAS | Campus TV
+http://tv5full.xyz:25461/quir/quir123/1196
+#EXTINF:-1 group-title="-HONDURAS-",HONDURAS | Ebenezer TV
+http://tv5full.xyz:25461/quir/quir123/1199
+#EXTINF:-1 group-title="-HONDURAS-",HONDURAS | CANAL 11
+http://tv5full.xyz:25461/quir/quir123/1200
+#EXTINF:-1 group-title="-HONDURAS-",HONDURAS | AZTECA HONDURAS *
+http://tv5full.xyz:25461/quir/quir123/1202
+#EXTINF:-1 group-title="-HONDURAS-",HONDURAS | CANAL 6
+http://tv5full.xyz:25461/quir/quir123/1204
+#EXTINF:-1 group-title="-HONDURAS-",HONDURAS | CANAL 5
+http://tv5full.xyz:25461/quir/quir123/1206
+#EXTINF:-1 group-title="-HONDURAS-",HONDURAS | TEN CANAL 10
+http://tv5full.xyz:25461/quir/quir123/1207
+#EXTINF:-1 group-title="-EL SALVADOR-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png",EL SALVADOR | CANAL 12
+http://tv5full.xyz:25461/quir/quir123/11368
+#EXTINF:-1 group-title="-COSTA RICA-",COSTA RICA | REPRETEL 4
+http://tv5full.xyz:25461/quir/quir123/1181
+#EXTINF:-1 group-title="-EEUU-" tvg-logo="http://144.217.91.146/Logos/Telemundo.png",Telemundo 60 Boston HD
+http://tv5full.xyz:25461/quir/quir123/42575
+#EXTINF:-1 group-title="-EEUU-" tvg-logo="http://144.217.91.146/Logos/Telemundo.png",Telemundo 47 New York HD
+http://tv5full.xyz:25461/quir/quir123/42576
+#EXTINF:-1 group-title="-EEUU-" tvg-logo="http://144.217.91.146/Logos/Telemundo.png",Telemundo 48 San Francisco HD
+http://tv5full.xyz:25461/quir/quir123/42581
+#EXTINF:-1 group-title="-EEUU-" tvg-logo="http://144.217.91.146/Logos/Telemundo.png",Telemundo 52 Los Angeles HD
+http://tv5full.xyz:25461/quir/quir123/42583
+#EXTINF:-1 group-title="-EEUU-" tvg-logo="http://144.217.91.146/Logos/Telemundo.png",Telemundo 60 San Antonio HD
+http://tv5full.xyz:25461/quir/quir123/42584
+#EXTINF:-1 group-title="-EEUU-" tvg-logo="http://144.217.91.146/Logos/Telemundo.png",Telemundo 39 Las Vegas HD
+http://tv5full.xyz:25461/quir/quir123/42585
+#EXTINF:-1 group-title="-EEUU-" tvg-logo="http://144.217.91.146/Logos/Telemundo.png",Telemundo 44 Chicago
+http://tv5full.xyz:25461/quir/quir123/42587
+#EXTINF:-1 group-title="-EEUU-" tvg-logo="http://144.217.91.146/Logos/Telemundo.png",Telemundo 25 Denver HD
+http://tv5full.xyz:25461/quir/quir123/42599
+#EXTINF:-1 group-title="-EEUU-" tvg-logo="https://sport-tv-guide.live/images/tv-station-unimas-819.png",Unimas Denver HD
+http://tv5full.xyz:25461/quir/quir123/42600
+#EXTINF:-1 group-title="-EEUU-" tvg-logo="http://144.217.91.146/Logos/Telemundo.png",Telemundo 39 Dallas HD
+http://tv5full.xyz:25461/quir/quir123/42601
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/EKTNAEENZVDIPLDBNF263752AU.jpg",24/7 | EL CHAVO DEL 8
+http://tv5full.xyz:25461/quir/quir123/4254
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://i.ibb.co/58fLH54/the-big-bang-theory-actores.jpg",24/7 The Big Bang Theory
+http://tv5full.xyz:25461/quir/quir123/25183
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://m.media-amazon.com/images/I/71xYruXNf2L._SS500_.jpg",24H | Batman
+http://tv5full.xyz:25461/quir/quir123/26822
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXsD76F-oDHkeN6l6dSRCLn3AZkhI2z0pE0w&usqp=CAU",24H | Crisis en Tierras Infinitas
+http://tv5full.xyz:25461/quir/quir123/26823
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://i.pinimg.com/originals/8f/56/ca/8f56caa36b5504773c20813ff0506489.jpg",24H | Gargolas
+http://tv5full.xyz:25461/quir/quir123/26824
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://pp.netclipart.com/pp/s/363-3632060_incredible-hulk-comic-logo.png",El Hombre Increible
+http://tv5full.xyz:25461/quir/quir123/26825
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51Yjqf4R9dL._SX342_QL70_ML2_.jpg",24H | Jessica Jones
+http://tv5full.xyz:25461/quir/quir123/26826
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video/v4/cf/06/f9/cf06f994-29a0-f76c-97fe-ab46515e56db/source/1200x1200bb.jpg",24H | Jonny Bravo
+http://tv5full.xyz:25461/quir/quir123/26827
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://cdn.eldeforma.com/wp-content/uploads/2019/09/cover-familia-peluche-reencuentro-1200x676.png",24/7 | LA FAMILIA PELUCHE
+http://tv5full.xyz:25461/quir/quir123/26832
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://e.rpp-noticias.io/normal/2020/08/10/323232_981568.jpg",24/7: MALCOLM T1
+http://tv5full.xyz:25461/quir/quir123/27430
+#EXTINF:-1 group-title="-24/7-",24/7 DRAGON BALL
+http://tv5full.xyz:25461/quir/quir123/29609
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://los40es00.epimg.net/los40/imagenes/2020/05/19/cinetv/1589881432_047100_1589883373_noticia_normal.jpg",24/7 LOS SIMPSONS
+http://tv5full.xyz:25461/quir/quir123/29611
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png",Solo Stand Up
+http://tv5full.xyz:25461/quir/quir123/37322
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://lh3.googleusercontent.com/-FO_MlzlWSL0/XtV_Ce2TltI/AAAAAAAA1XE/7jcBrfL19qwjBOJ4knqOiXQZCni99OwWACK8BGAsYHg/s0/2020-06-01.png",Cloud Server Kids
+http://tv5full.xyz:25461/quir/quir123/37324
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://los40es00.epimg.net/los40/imagenes/2020/05/19/cinetv/1589881432_047100_1589883373_noticia_normal.jpg",24/7 LOS SIMPSONS op 2
+http://tv5full.xyz:25461/quir/quir123/37325
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://mibebeyyo.elmundo.es/images/bebes2/casa-mickey-mouse.jpg",24/7 | La Casa de Mickey Mouse
+http://tv5full.xyz:25461/quir/quir123/37328
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://img.discogs.com/LMq6l3JTkSoHFlSNJ1vRUbBW5DQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6755885-1518637916-8509.jpeg.jpg",24/7 Rugrats: Aventuras en pañales
+http://tv5full.xyz:25461/quir/quir123/37329
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://i.etsystatic.com/16425908/r/il/5b1e95/1397321011/il_570xN.1397321011_pwek.jpg",24H - VIP | Moisés y los Diez Mandamientos
+http://tv5full.xyz:25461/quir/quir123/37330
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://i.pinimg.com/600x315/85/6d/a7/856da70c752bd43203a87ca5804010d0.jpg",24H - VIP | Popeye el marino
+http://tv5full.xyz:25461/quir/quir123/37331
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://www.mobygames.com/images/covers/l/550155-super-dragon-ball-heroes-world-mission-nintendo-switch-front-cover.jpg",24H - VIP | Dragon Ball Heroes
+http://tv5full.xyz:25461/quir/quir123/37334
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://img.discogs.com/SiDK8PwGCAiSTiZyHnUXck11-J0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-600899-1451038006-1138.jpeg.jpg",24H - VIP | Rocky
+http://tv5full.xyz:25461/quir/quir123/37336
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/ICarly_Season_4.jpg",24H | iCarly
+http://tv5full.xyz:25461/quir/quir123/37337
+#EXTINF:-1 group-title="-24/7-" tvg-logo="http://149.56.20.138:36995/images/07ec00c4e38983fff0c4cd10ac934375.jpg",24H - VIP | Peliculas Play
+http://tv5full.xyz:25461/quir/quir123/37338
+#EXTINF:-1 group-title="-24/7-" tvg-logo="http://149.56.20.138:36995/images/c2cfe05932fc8d0319b3fe6752aedc4f.jpg",24H - VIPS | Los supersónicos
+http://tv5full.xyz:25461/quir/quir123/37339
+#EXTINF:-1 group-title="-24/7-" tvg-logo="http://149.56.20.138:36995/images/e0e03657bc267428aeab22f0136935ab.jpg",24H - VIP | Harry Potter
+http://tv5full.xyz:25461/quir/quir123/37340
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://scontent.fver1-1.fna.fbcdn.net/v/t1.0-9/37014485_325844887953686_5254456968382251008_n.jpg?_nc_cat=103&_nc_sid=85a577&_nc_ohc=Y0ImkL6gBxYAX_1nq1w&_nc_ht=scontent.fver1-1.fna&oh=78f3e055c831cdda303890794bb081e4&oe=5FA134D7",24H - VIP | La Familia P. Luche
+http://tv5full.xyz:25461/quir/quir123/37341
+#EXTINF:-1 group-title="-24/7-" tvg-logo="http://51.222.43.170:36995/images/d5321532a4891945708d88859079ca52.jpg",24H - VIP | Misión Imposible
+http://tv5full.xyz:25461/quir/quir123/37343
+#EXTINF:-1 group-title="-24/7-",MEA CULPA TEMPORADA 1
+http://tv5full.xyz:25461/quir/quir123/40493
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://static.wikia.nocookie.net/malcolm/images/b/b5/P%C3%B3ster_T2.jpg/revision/latest/top-crop/width/360/height/450?cb=20161103085855&path-prefix=es",24/7 MALCOLM T2
+http://tv5full.xyz:25461/quir/quir123/41692
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://images.justwatch.com/poster/8613551/s592",24/7 MALCOLM T3
+http://tv5full.xyz:25461/quir/quir123/41693
+#EXTINF:-1 group-title="-24/7-",24/7 MALCOLM T4
+http://tv5full.xyz:25461/quir/quir123/42235
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://i.ytimg.com/vi/HgodEd30dlo/maxresdefault.jpg",Candy Candy
+http://tv5full.xyz:25461/quir/quir123/42551
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://larepublica.pe/resizer/t5s3h_Jq6hKfbE-6F0GrYQJF5Cc=/1200x660/top/arc-anglerfish-arc2-prod-gruporepublica.s3.amazonaws.com/public/CMXIQPMMTREOZG7LUTGFH3UQ5M.jpg",La Casa de Papel
+http://tv5full.xyz:25461/quir/quir123/42552
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://cdn-3.expansion.mx/dims4/default/b3472e5/2147483647/strip/true/crop/920x477+0+0/resize/800x415!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2F2f%2F8b%2F763acc0f43e79d2897fbea3b9d4b%2Fchapu.jpg",El Chapulin Colorado
+http://tv5full.xyz:25461/quir/quir123/42553
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://i.ytimg.com/vi/0iN0l1OmlzQ/maxresdefault.jpg",El Clon HD
+http://tv5full.xyz:25461/quir/quir123/42554
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://i.pinimg.com/originals/6e/c9/b5/6ec9b5e39eee4c27125ecbf07d7633be.jpg",Mazinger Z
+http://tv5full.xyz:25461/quir/quir123/42555
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://kbimages1-a.akamaihd.net/c751eef9-a6f3-40f1-9949-2f06b7921f2f/1200/1200/False/the-big-book-of-paw-patrol-paw-patrol.jpg",Paw Patrol HD
+http://tv5full.xyz:25461/quir/quir123/42556
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20150709121127_420.jpg",South Park HD
+http://tv5full.xyz:25461/quir/quir123/42557
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://www.ecartelera.com/carteles-series/900/940/001_p.jpg",Super Campeones
+http://tv5full.xyz:25461/quir/quir123/42558
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://e7.pngegg.com/pngimages/43/734/png-clipart-dinosaurs-dinosaurs-television-show-dinosaur-television-food.png",Dinosaurios
+http://tv5full.xyz:25461/quir/quir123/42560
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://www.cuartomundo.cl/wp-content/uploads/2018/12/the-A-team-destacada.jpg",Los Magnificos
+http://tv5full.xyz:25461/quir/quir123/42561
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://www.pikpng.com/pngl/m/385-3858482_baywatch-image-david-hasselhoff-and-pam-anderson-clipart.png",Baywatch SD
+http://tv5full.xyz:25461/quir/quir123/42562
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://i0.wp.com/elroundfinal.com/wp-content/uploads/2020/09/maxresdefault-2.jpg",Saga Rocky
+http://tv5full.xyz:25461/quir/quir123/42563
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://pngimg.com/uploads/transformers/transformers_PNG10.png",Saga Transformers FHD
+http://tv5full.xyz:25461/quir/quir123/42564
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://www.megaidea.net/wp-content/uploads/2018/06/JJHHHHHHHHHHHHHH.jpg",Jorge el Curioso HD
+http://tv5full.xyz:25461/quir/quir123/42565
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://c0.klipartz.com/pngpicture/402/397/sticker-png-he-man-she-ra-masters-of-the-universe-the-movie-television-heman-television-logo-cartoon-fictional-character-film-thumbnail.png",He Man
+http://tv5full.xyz:25461/quir/quir123/42566
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png",Dragon Ball Super HD
+http://tv5full.xyz:25461/quir/quir123/42567
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://www.abc.es/media/series/000/004/415/cumbia-ninja-2.jpg",Cumbia Ninja HD
+http://tv5full.xyz:25461/quir/quir123/42568
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://toppng.com/uploads/preview/eppa-pig-molde-pig-png-pig-party-real-moms-fiestas-peppa-pig-logo-11562996894fi7teacoia.png",Pepa Pig HD
+http://tv5full.xyz:25461/quir/quir123/42569
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://picfiles.alphacoders.com/652/65222.png",X-Men FHD
+http://tv5full.xyz:25461/quir/quir123/42570
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://www.itl.cat/pngfile/big/51-513236_super-campeones-serie-completa-captain-tsubasa-road-to.jpg",Super Campeones Rumbo al Mundial 2002
+http://tv5full.xyz:25461/quir/quir123/42571
+#EXTINF:-1 group-title="-24/7-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Toy_Story.svg/1280px-Toy_Story.svg.png",Toy Story HD
+http://tv5full.xyz:25461/quir/quir123/42572
+#EXTINF:-1 group-title="-MÚSICA-" tvg-logo="http://144.217.91.146/Logos/United%20States/mtv-us.png",MUSICA | MTV HD
+http://tv5full.xyz:25461/quir/quir123/982
+#EXTINF:-1 group-title="-MÚSICA-" tvg-logo="",MUSICA | MTV LIVE *
+http://tv5full.xyz:25461/quir/quir123/10768
+#EXTINF:-1 group-title="VOD COMEDIA / Romance" tvg-logo="https://www.cinecalidad.is/wp-content/uploads/2020/07/viena-and-the-fantomes.jpg",Viena and the Fantomes
+http://tv5full.xyz:25461/movie/quir/quir123/19865.mp4
+#EXTINF:-1 group-title="-MÚSICA-" tvg-logo="https://lh3.googleusercontent.com/proxy/8p1a_063HJ-CQOa3gmjUo2i3cWlcT6yNjmlhw4kmXFrldB6DItShHtLnotTPfr8k95OxmrjQN4maOHjoat4VjGB2EFf_IhROlPiNQLhlYiGPyxiy1Dc",MUSICA | QUIERO MUSICA
+http://tv5full.xyz:25461/quir/quir123/19912
+#EXTINF:-1 group-title="VOD DOCUMENTALES" tvg-logo="https://pics.filmaffinity.com/The_Beatles_Eight_Days_a_Week_The_Touring_Years-573308268-large.jpg",The Beatles: Eight Days a Week - The Touring Years
+http://tv5full.xyz:25461/movie/quir/quir123/20035.mkv
+#EXTINF:-1 group-title="-MÚSICA-" tvg-logo="https://image.roku.com/developer_channels/prod/6aaa406cab3f513f56ca1a29db27bb9db7cdb73348bb587c285835c51ff30bb2.png",MUSICA | VH1
+http://tv5full.xyz:25461/quir/quir123/22202
+#EXTINF:-1 group-title="VOD COMEDIA / Romance" tvg-logo="https://www.cinecalidad.is/wp-content/uploads/2020/08/work-it.jpg",Work it: Al ritmo de los sueños
+http://tv5full.xyz:25461/movie/quir/quir123/22307.mp4
+#EXTINF:-1 group-title="-MÚSICA-" tvg-logo="http://144.217.91.146/Logos/music-choice-mc_logo.jpg",Musica - MC Metal
+http://tv5full.xyz:25461/quir/quir123/24633
+#EXTINF:-1 group-title="-MÚSICA-" tvg-logo="http://144.217.91.146/Logos/music-choice-mc_logo.jpg",Musica - MC Mexicana
+http://tv5full.xyz:25461/quir/quir123/24634
+#EXTINF:-1 group-title="-MÚSICA-" tvg-logo="http://144.217.91.146/Logos/music-choice-mc_logo.jpg",Musica - MC Pop & Country
+http://tv5full.xyz:25461/quir/quir123/24635
+#EXTINF:-1 group-title="-MÚSICA-" tvg-logo="http://144.217.91.146/Logos/music-choice-mc_logo.jpg",Musica - MC Pop Latino
+http://tv5full.xyz:25461/quir/quir123/24637
+#EXTINF:-1 group-title="-MÚSICA-" tvg-logo="http://144.217.91.146/Logos/music-choice-mc_logo.jpg",Musica - MC R&B Soul
+http://tv5full.xyz:25461/quir/quir123/24638
+#EXTINF:-1 group-title="-MÚSICA-" tvg-logo="http://144.217.91.146/Logos/music-choice-mc_logo.jpg",Musica - MC Rock
+http://tv5full.xyz:25461/quir/quir123/24640
+#EXTINF:-1 group-title="-MÚSICA-" tvg-logo="http://144.217.91.146/Logos/music-choice-mc_logo.jpg",Musica - MC Toddler Tunes
+http://tv5full.xyz:25461/quir/quir123/24642
+#EXTINF:-1 group-title="-MÚSICA-" tvg-logo="http://144.217.91.146/Logos/music-choice-mc_logo.jpg",Musica - MC Tropicales
+http://tv5full.xyz:25461/quir/quir123/24643
+#EXTINF:-1 group-title="-MÚSICA-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/340px-LOGO_VH1_CLASSIC.svg.png",Musica - VH1 Classic
+http://tv5full.xyz:25461/quir/quir123/24648
+#EXTINF:-1 group-title="-MÚSICA-" tvg-logo="https://lh3.googleusercontent.com/-jDz1h1TVXnI/X5ct0JQUgpI/AAAAAAAA6xE/yNj4027GRJg_bgCUrLv2_3fDiH4mR9VgACK8BGAsYHg/s0/2020-10-26.png",Zapping Music
+http://tv5full.xyz:25461/quir/quir123/37326
+#EXTINF:-1 group-title="-CULTURA-" tvg-logo="",CULTURA | FILM & ARTS
+http://tv5full.xyz:25461/quir/quir123/1494
+#EXTINF:-1 group-title="-CULTURA-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png",CULTURA | Nat Geo Wild HD (A)
+http://tv5full.xyz:25461/quir/quir123/1497
+#EXTINF:-1 group-title="-CULTURA-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png",CULTURA | Nat Geo Wild FHD (p)
+http://tv5full.xyz:25461/quir/quir123/1498
+#EXTINF:-1 group-title="-CULTURA-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png",CULTURA | Investigation Discovery FHD
+http://tv5full.xyz:25461/quir/quir123/1500
+#EXTINF:-1 group-title="-CULTURA-" tvg-logo="https://cdn.mitvstatic.com/channels/co_history-hd_m.png",CULTURA | History FHD (p)
+http://tv5full.xyz:25461/quir/quir123/1502
+#EXTINF:-1 group-title="-CULTURA-" tvg-logo="http://lh3.ggpht.com/-Oilq-vsWwTI/UVnfEmZnPUI/AAAAAAAAw8Y/Fjj0JFaDDbA/zrtn_006n3020fea6_tn.jpg?imgmax=288",CULTURA | H2 HD
+http://tv5full.xyz:25461/quir/quir123/1503
+#EXTINF:-1 group-title="-CULTURA-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png",CULTURA | Discovery World FHD (ST)
+http://tv5full.xyz:25461/quir/quir123/1504
+#EXTINF:-1 group-title="-CULTURA-",CULTURA | Discovery Turbo HD
+http://tv5full.xyz:25461/quir/quir123/1506
+#EXTINF:-1 group-title="-CULTURA-" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-hd-theater_m.png",CULTURA | Discovery Theater FHD
+http://tv5full.xyz:25461/quir/quir123/1507
+#EXTINF:-1 group-title="-CULTURA-" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-hd-theater_m.png",CULTURA | Discovery Theater HD (U)
+http://tv5full.xyz:25461/quir/quir123/1508
+#EXTINF:-1 group-title="-CULTURA-" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png",CULTURA | Discovery Science HD
+http://tv5full.xyz:25461/quir/quir123/1509
+#EXTINF:-1 group-title="-CULTURA-" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-mBqdVdrE13_Tv0WU79KOo93K1ZTuaJnGPig=s900-c-k-c0xffffffff-no-rj-mo",CULTURA | Discovery Home & Healt FHD (p)
+http://tv5full.xyz:25461/quir/quir123/1510
+#EXTINF:-1 group-title="-CULTURA-" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png",CULTURA | Discovery Civilization HD
+http://tv5full.xyz:25461/quir/quir123/1511
+#EXTINF:-1 group-title="-CULTURA-" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU2MDc2MTgyMTAwNTE4NjQw/discovery-channel-logo_resized_bc.png",CULTURA | Discovery Channel FHD  (P)
+http://tv5full.xyz:25461/quir/quir123/1513
+#EXTINF:-1 group-title="-CULTURA-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",CULTURA | Animal Planet
+http://tv5full.xyz:25461/quir/quir123/1515
+#EXTINF:-1 group-title="-CULTURA-" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif",cultural | DW Español
+http://tv5full.xyz:25461/quir/quir123/37320
+#EXTINF:-1 group-title="-CULTURA-" tvg-logo="https://lh3.googleusercontent.com/-7CdZ2MNL_ds/Xx2m8z9DJlI/AAAAAAAA3dY/U8C0MQpqYGQy5KQ_eiiz0ZpfDGQuG47DgCK8BGAsYHg/s0/2020-07-26.png",CULTURA | Cazavision
+http://tv5full.xyz:25461/quir/quir123/39295
