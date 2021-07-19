@@ -1,24 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_6.png" group-title="Costa Rica", Repretel Canal 6 | HD | LA URUCA COSTA RICA
 https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2NzQwOTE5LCJzZXNzaW9uIjoiMTg2LjE1LjIxNy4xMzEiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE1LjIxNy4xMzEiXX0sInNpZ25hdHVyZSI6Ijc1ODFlNWQxNjM1YTM5YjkyNTQ1NjhhMmIyYTdhMGMyN2VhMTBjYmIifQ%3D%3D
-
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11.png" group-title="Costa Rica", REPRETEL CANAL 11 | HD | LA URUCA COSTA RICA
 https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2NzQxMTUwLCJzZXNzaW9uIjoiMTg2LjE1LjIxNy4xMzEiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE1LjIxNy4xMzEiXX0sInNpZ25hdHVyZSI6Ijk2MjlkN2U1ZDgzODA5ZmMwMGNmOTA5NmZiY2UwZDJhMzg4MzU1MmEifQ==
-
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_4.png" group-title="Costa Rica", REPRETEL CANAL 4| HD | LA URUCA COSTA RICA
 https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2NzQxMjIyLCJzZXNzaW9uIjoiMTg2LjE1LjIxNy4xMzEiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE1LjIxNy4xMzEiXX0sInNpZ25hdHVyZSI6ImM4ZTU3NGFhMGQ3YjEzYzJhMDRlNWFkOTA1NTM5MzI3OTZiOTNlNDUifQ==
-
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9axkCVr.png" group-title="Costa Rica", Teleuno | HD | San Ramón
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w1960667504.m3u8
- 
+#EXTM3U 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="Costa Rica", Telered | SD | Alajuela
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
-
- 
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qNrgCwF.png" group-title="Costa Rica", Ticavisión | SD | San  José
 http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w808197071.m3u8
-
-
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U4PdxpJ.png" group-title="Costa Rica", Multimedios | HD | San José
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
