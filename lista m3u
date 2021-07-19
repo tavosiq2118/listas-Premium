@@ -1,16 +1,12 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_6.png" group-title="Costa Rica", Repretel Canal 6 | HD | LA URUCA COSTA RICA
-https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2NjM3Mzk3LCJzZXNzaW9uIjoiMTg2LjE1LjIxNy4xMzEiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE1LjIxNy4xMzEiXX0sInNpZ25hdHVyZSI6ImY4OTNjNmQ4Y2FlNjQyYTg4OTFiMjNhZTQxNzMxNDMyMWI1ZjY2M2UifQ==
+https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2NzQwOTE5LCJzZXNzaW9uIjoiMTg2LjE1LjIxNy4xMzEiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE1LjIxNy4xMzEiXX0sInNpZ25hdHVyZSI6Ijc1ODFlNWQxNjM1YTM5YjkyNTQ1NjhhMmIyYTdhMGMyN2VhMTBjYmIifQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11.png" group-title="Costa Rica", REPRETEL CANAL 11 | HD | LA URUCA COSTA RICA
-https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2NjM5MzA3LCJzZXNzaW9uIjoiMTg2LjE1LjIxNy4xMzEiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE1LjIxNy4xMzEiXX0sInNpZ25hdHVyZSI6IjVkYzMxNzY1MWZiYmY0NDUxZDU0MDYzZTNjMmRmZWNiNTM1ZWJjMzkifQ%3D%3D
+https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2NzQxMTUwLCJzZXNzaW9uIjoiMTg2LjE1LjIxNy4xMzEiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE1LjIxNy4xMzEiXX0sInNpZ25hdHVyZSI6Ijk2MjlkN2U1ZDgzODA5ZmMwMGNmOTA5NmZiY2UwZDJhMzg4MzU1MmEifQ==
 
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_4.png" group-title="Costa Rica", REPRETEL CANAL 4| HD | LA URUCA COSTA RICA
-https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2NjM5NzI5LCJzZXNzaW9uIjoiMTg2LjE1LjIxNy4xMzEiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE1LjIxNy4xMzEiXX0sInNpZ25hdHVyZSI6ImRjOWExYWNiMTExMGMxYTEzNGE5ODhhOWZhNjQ3NmNkN2Y4ZjJhMmQifQ==
-
-#EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_2.png" group-title="Costa Rica", REPRETEL CANAL 2| HD | LA URUCA COSTA RICA
-https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2NjM5ODQzLCJzZXNzaW9uIjoiMTg2LjE1LjIxNy4xMzEiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE1LjIxNy4xMzEiXX0sInNpZ25hdHVyZSI6ImMxMmIwNWExMDkwODQyMDUxYzA4YTY0ZTg3NTg0ZDNkYWJmYjQ3ODQifQ==
+https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2NzQxMjIyLCJzZXNzaW9uIjoiMTg2LjE1LjIxNy4xMzEiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE1LjIxNy4xMzEiXX0sInNpZ25hdHVyZSI6ImM4ZTU3NGFhMGQ3YjEzYzJhMDRlNWFkOTA1NTM5MzI3OTZiOTNlNDUifQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9axkCVr.png" group-title="Costa Rica", Teleuno | HD | San Ramón
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w1960667504.m3u8
