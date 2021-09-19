@@ -1,14 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_6.png" group-title="Costa Rica", Repretel Canal 6 | HD | LA URUCA COSTA RICA
-https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMyMDE0MTg0LCJzZXNzaW9uIjoiMTg2LjE1LjIxNy4xMzEiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE1LjIxNy4xMzEiXX0sInNpZ25hdHVyZSI6Ijc0MDRiMDRjNDQ4NDg1ZDdkMDdiM2ZjNjEyNDkyYmM5YjJjNjI5ZTMifQ%3D%3D
+https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMyMTU1ODk2LCJzZXNzaW9uIjoiMTg2LjE1LjIxNy4xMzEiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE1LjIxNy4xMzEiXX0sInNpZ25hdHVyZSI6Ijc2NjgzYWFmZGYxYTc4YzQ0MmMwNDUyY2U5MGU5MmQxZjA0MDk5YWEifQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11.png" group-title="Costa Rica", REPRETEL CANAL 11 | HD | LA URUCA COSTA RICA
-https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMyMDE0MjY1LCJzZXNzaW9uIjoiMTg2LjE1LjIxNy4xMzEiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE1LjIxNy4xMzEiXX0sInNpZ25hdHVyZSI6IjRhZjI2ZWEzNDBiNmMxMzIxNTIxNzA2NzY5ODdkM2YyYmUyMzkyODcifQ%3D%3D
+https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMyMTU2MDU2LCJzZXNzaW9uIjoiMTg2LjE1LjIxNy4xMzEiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE1LjIxNy4xMzEiXX0sInNpZ25hdHVyZSI6Ijk4OTVlMGM5Mzc3ODBlYmZkOTkwOWM0NzU2ZmNkODMzMmViNDgzZmMifQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_2.png" group-title="Costa Rica", REPRETEL CANAL 2| HD | LA URUCA COSTA RICA
-https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMyMDE2NDEwLCJzZXNzaW9uIjoiMTg2LjE1LjIxNy4xMzEiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE1LjIxNy4xMzEiXX0sInNpZ25hdHVyZSI6ImUzYzQzZWNjYzA2MzkyYmEyYjNhYTI3NThiMjQ3MmIxOWUwMGU2MTAifQ%3D%3D
-
+https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMyMTU2MTUxLCJzZXNzaW9uIjoiMTg2LjE1LjIxNy4xMzEiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE1LjIxNy4xMzEiXX0sInNpZ25hdHVyZSI6ImZmZWI1NGVhYzVlN2M4NGZmMGUyMTNmNmQyOTNiYWExNGIwYzFlZjgifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_4.png" group-title="Costa Rica", REPRETEL CANAL 4| HD | LA URUCA COSTA RICA
 https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMyMDE1MjQzLCJzZXNzaW9uIjoiMTg2LjE1LjIxNy4xMzEiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE1LjIxNy4xMzEiXX0sInNpZ25hdHVyZSI6ImQ4OTk2OGU4YzNmNWE3NWVlOWZjZTkzMzdhZjYyNTY5MmNkMjE0NWIifQ%3D%3D
 
@@ -36,7 +35,10 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 http://rtmp.info:8081/anexiontv/envivo/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static3.teletica.com//Files/Sizes/2017/10/13/logo-teletica-640132500_380x260.jpg" group-title="Costa Rica", TELETICA CANAL 7| HD | LA SABANA COSTA RICA
-https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5w7H1-pWsMa7VyxwgCx-QZc)/dm/3/x29e3wg/s/live-3.m3u8
+https://dmxleo.dailymotion.com/cdn/manifest/video/x29e3wg.m3u8?auth=1632242861-2562-nh9ecijc-2e526b866946f58b0f34a5ad3323537bq0MuB1fT54lxAzMvOKkxukPiySRQI6OcocyhHAqkgfuGNkwfbnAP3OENaiCW6WLhKBSV04pFdDxLKlHoym0rXfMeXPIjqfV_exwOJ9vjrKCAFMpLAXCMBmAG3hCVJRIwicgvR6bBT0C1qHziR3gN27wvUdAZ_Cz11cLFCq1pMmKPBEQk2MnRApflygSn-zGXpiPV0JSXTztpEu1TFCYYJTLznvQcPuzO4LkiMEiUTMm8BOKRIZGV74KNANdxHDOWDeZa8QY0SJfRNRFiIS_Dri7nZOntElPuX0Bi28kunU623fTOCrSRIMIHcFgUTy0nXSh8UxGwUgqAf5eAhTDBFLQwLGl5cWCluaGYp8oBN96tKvAmCQQLwKFU_PLxoE4_zAFb66OMfLK59yWqiYShlWWnzycH0-ZkUw0u7fO_upVYjhxJ-YF3iIiuAKy98MnFrqgSwePY9RuC5it-07Su_Wx1mcJBEdmRT6IAhWFb2Va-qnbMjThGi7YzP9iO1eNeI8gRXYL7nkynfd7y1O9m6XJn4YwmIg8LVShkbXdGblo7yQcQf54_agmejNHTUPN3nNgV-Nr6EyjUqxrzAq1CZJvwGj6J5Wqxew-UcAcgAYTRLK7_FznOFvceXSNDUJblEFBi8nTW0uH1gVFS8-qA5eL7ttBePFMa1xEqRzB9rWApC-lvIKGJyJW7lBE-0Ht0TNwVHkmKIwvDqQtytIxp3-7HjiwM-6jBfxXNRMX9as0YBqUnD5WymwzUmWacC0f3O0cH8NIpJJ0H3XopFATFBRdpe_0w4h7KgRHjEFCO2kpHgzb_2mtgoAecnqYcYUQ_URaFIGXgZx3NJrAUgxfetWOfMiuxlbj0FtvBOK9K7HUBwcK8khU_A11hEYTOH7UWRkV7-Ig3_S_6GiVGYtZUPVB_9pw2WNe8wokJtd1YwZvIKtyN2PNTkiWauJDifJ_JhsI3qIjO9jhhfEh3DUXCktqHOuDUGdGjwMc8dg9LU5krP7kncpFwwGF4dVVG0QP7HQVXuGXPejUd5ovuf5C486EiZ7cftKWUQeWWMMDsQxHaAvEHzfKkEwRfG9FcnKRHuhv8sUWCNx8lzdC1azPDUv42rwjhwCsH0YESx2w_-h3B6mgEJRBaDP_WYtLNJlumkGFhK-oMUQTGCuwsCoq0Pms-Z6lZJ9qQ0CiIR1NPSlR0ZF5r5gvgE1SQgAisRuKj3Txuu9zE-00IGZ9AJGC4HwAadZPU-53Vgo6wtI9HDzKl3NJbDftFM97zTgXpBJa_STzy9t86yYpCIC0jf77IthmRs5wgQyXi01CUXs5KqUk_rtWtLJ9P2DMUYDxJOlPrUwvxp-__yaneAJTdyAqIkPukelk_MXWQR65eJoQYW_WSlzFsOaC_Cj8xHPUQ79-WfjrQeSOVPsEz5HtMa7_TzfL-YUL_9tLCb30PVaZrUaMlJETMR_RTE5b5nn_50Yqy1GMDlQuqjNfymcf0e7ETsbatXJ_YGZOpUkR-zIphYJ4ojzGCt3BQEnpQ3fyo7ezBhWZphcFEhaPEDsmYSsok0G8SFw6Na7FyL5YbdTZdN5LeiE-H6yHZvvs9IV1WqXMy9op813bcUJlfQ9Ym-r4Jp-KhRUSFjGcWTc5Dru5I3pNuM7zd3f5HjdjFBi06bpA5EGGeIjnkeU2-ynmGy8qz0MFU9aJMp5_qm_WxidjvUylvcbWABv7ncHI9YB29oiMqaSTuhoP4nnfN9g9IU9bYeQokRAlqsqIMD1peQfBVm5H9mi39tjKxBd8ciAaNdH853J9ELw83pg_pNCGIAI46JB6pfYfW84rfAjJYd85g11R0N7-6R7o9tsGiSUaTAp2_eErQV2kOzP_9j7RFdWyNGTRjmyFl0Ps6duu764JXCnUocxaC1sENeuwfZQ1dlAEh1SFooKUaVtioQgx4mMHhLGHN9slb0H7GqInUwKgFxFOSAKnTWKPldCsSokraM3titenHvAfyLeTIH6JrYlOqjfAHKWVJPcWrGUVadL6Gii0WE42zmbpHUy95CULvjCnRzTnsmkhe4GJ8N0KPG6hZ8Vb24oWIhYZrPXWpH8oKTgPmA_qKNr75ZnIFMTd83a5MZ_t1Hd2Zfnlhy_4HffKJFyd8RT0eTzC62dKMgZzOT95WIDT-HlrUM5D9f9ED2V4pKIsYtxfKLkmVMkCcCM2yiCzFPZ6Q39KyspWMS-_Tlik2j3nrDlPEar_-NdLg48gaW9oyVmoIkUgZ16QPBxjAWjKLWlM34SVlc3_f7hTiZi0YNqaOHd_yVfrLudPcr6W18YiHR70peu-Mk9doCP5EFSOVk4EnzPYHOQYH5P75R2ptLrtFf2NOf-jdZjoKBCkWLiU5WeJMZoth7m7EQ0pI0HA&ps=648x375&td=www.teletica.com&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---&vl=2&ciid=1ffvf9jg24qhd3atd6b_VMAP_0_0&cidx=0&sidx=0&rap=0&vidIdx=1&vad=1&omn=0&imal=1
+
+#EXTINF:-1 tvg-logo="https://static3.teletica.com//Files/Sizes/2017/10/13/logo-teletica-640132500_380x260.jpg" group-title="Costa Rica", TELETICA RADIO| HD | LA SABANA COSTA RICA
+https://stream-02.nyc.dailymotion.com/sec(mGtXk081oRxj3J14xGtAct-we0hJVFToSUZT2Sv3inE)/dm/3/x665gvm/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://costaricamedios.cr/wp-content/uploads/2020/06/logo-header-sinartcr.png" group-title="Costa Rica", SINART CR| HD | SAN JOSE
 https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Za3cvHK3gZHsxbkfJKk99M8)/dm/3/x7vh8g3/d/live-2.m3u8
@@ -358,7 +360,7 @@ http://45.225.204.7:8000/play/a02k
 http://45.225.204.7:8000/play/a067
 #EXTINF:-1 group-title="Infantiles",Disney Jr
 http://45.225.204.7:8000/play/a00l
-#EXTINF:-1 group-title="Infantiles",Disney 😆
+#EXTINF:-1 group-title="Infantiles",DisneyXD
 http://45.225.204.7:8000/play/a019
 #EXTINF:-1 group-title="Infantiles",NatGeo Kids
 http://45.225.204.7:8000/play/a01l
@@ -366,8 +368,6 @@ http://45.225.204.7:8000/play/a01l
 http://45.225.204.7:8000/play/a028
 #EXTINF:-1 group-title="Infantiles",Nickelodeon
 http://45.225.204.7:8000/play/a018
-#EXTINF:-1 group-title="Infantiles",TV! Educa Chile HD
-http://45.225.204.7:8000/play/a05n
 #EXTINF:-1 group-title="Películas y series",A&E HD
 http://45.225.204.7:8000/play/a05b
 #EXTINF:-1 group-title="Películas y series",AE Mundo
@@ -430,8 +430,6 @@ http://45.225.204.7:8000/play/a02n
 http://45.225.204.7:8000/play/a05d
 #EXTINF:-1 group-title="Cultura",Animal Planet
 http://45.225.204.7:8000/play/a02m
-#EXTINF:-1 group-title="Cultura",CNN Chile
-http://45.225.204.7:8000/play/a01j
 #EXTINF:-1 group-title="Cultura",CNN Espanol
 http://45.225.204.7:8000/play/a005
 #EXTINF:-1 group-title="Cultura",Discovery Channel
@@ -488,5 +486,3 @@ http://45.225.204.7:8000/play/a07a
 http://45.225.204.7:8000/play/a037
 #EXTINF:-1 group-title="Entretenimiento",ViaX
 http://45.225.204.7:8000/play/a038
-#EXTINF:-1 group-title="Entretenimiento",Zona Latina
-http://45.225.204.7:8000/play/a01h
