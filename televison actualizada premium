@@ -1,58 +1,62 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_6.png" group-title="Costa Rica", Repretel Canal 6 | HD | LA URUCA COSTA RICA
-https://d3ou4v1ntyo64z.cloudfront.net/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_2.png" group-title="Costa Rica", REPRETEL CANAL 2| HD | LA URUCA COSTA RICA
-https://d3ou4v1ntyo64z.cloudfront.net/repretel/canal2/smil:live.smil/chunklist_b1248000.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11.png"" group-title="Costa Rica", Repretel Canal 11 | HD | LA URUCA COSTA RICA
+#EXTM3U x-tvg-url="" tv-test="CR.m3u"
+#EXTINF:-1 tvg-id="1107" tvg-name="Wowly" tvg-logo="https://i2.paste.pics/e980359ee920b476bc6ff4e2187f220a.png", Wowly | CR
+https://wowly.stream/hls/stream_src/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1060" tvg-name="Canal 11" tvg-logo="https://i2.paste.pics/ecb09bce24a74b422ff4fd6923b52300.png", Canal 11 | CR
 https://d3ou4v1ntyo64z.cloudfront.net/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_4.png"" group-title="Costa Rica", Repretel Canal 4 | HD | LA URUCA COSTA RICA
-https://d3ou4v1ntyo64z.cloudfront.net/repretel/canal4/smil:live.smil/chunklist_b1248000.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9axkCVr.png" group-title="Costa Rica", Teleuno | HD | San Ramón
-http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w1960667504.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="Costa Rica", Telered | SD | Alajuela
-http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
-
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qNrgCwF.png" group-title="Costa Rica", Ticavisión | SD | San  José
-http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w808197071.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U4PdxpJ.png" group-title="Costa Rica", Multimedios | HD | San José
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SWxQJ6D.png" group-title="Costa Rica", Colosal  TV | HD | Ciudad Neily
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JhVA6l0.png" group-title="Costa Rica", Telesur | SD | Ciudad Neily
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UCiZdrX.png" group-title="Costa Rica", Anexión TV | HD | Liberia
-http://rtmp.info:8081/anexiontv/envivo/chunks.m3u8
-
+#EXTINF:-1 tvg-id="1061" tvg-name="Canal 2" tvg-logo="https://i2.paste.pics/ba60ca7d95a11556425430032c24e0ed.png", Canal 2 | CR
+https://d3ou4v1ntyo64z.cloudfront.net/repretel/canal2/smil:live.smil/chunklist_b1248000.m3u8
+#EXTINF:-1 tvg-id="1059" tvg-name="Canal 6" tvg-logo="https://i2.paste.pics/01a892099fb8614f242806cdc8f94b4d.png", Canal 6 | CR
+https://d3ou4v1ntyo64z.cloudfront.net/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8
+#EXTINF:-1 tvg-id="1043" tvg-name="Canal 8" tvg-logo="https://i2.paste.pics/060625379c33c11acc84be7cdc18b4eb.png", Canal 8 | CR
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1053" tvg-name="Colosal TV" tvg-logo="https://i2.paste.pics/ef00f6c7d85171624dff85e2c38fc975.png", Colosal TV | CR
+https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1047" tvg-name="Nicoya TV" tvg-logo="https://i2.paste.pics/3238d7371f23b09198d794d2979411b9.png", Nicoya TV | CR
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1083" tvg-name="M.M.M CR BETHEL" https://mmmcostarica.com/assets/images/logo.png", M.M.M CR BETHEL | CR
+https://primary-out.iptv-global.net/costarica/ngrp:myStream_all/chunklist_w1096449973_b2628000.m3u8
+#EXTINF:-1 tvg-id="1044" tvg-name="Telesur Costa Rica" tvg-logo="https://i2.paste.pics/9374c535562f863ab536cb264e20d812.png", Telesur Costa Rica | CR
+https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1049" tvg-name="Teleuno" tvg-logo="https://i2.paste.pics/e1e0ae47b803ab15e41266a4d66ca297.png", Teleuno | CR
+https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1048" tvg-name="TicaVision" tvg-logo="https://i2.paste.pics/b89953d1d7327bb67304a18eb0bc354a.png", TicaVision | CR
+https://59ef525c24caa.streamlock.net/HBTV/HBTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1051" tvg-name="Tv Sur Canal 14" tvg-logo="https://i2.paste.pics/55978deeb5bf9d20b0c459cff3635225.png", Tv Sur Canal 14 | CR
+https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1052" tvg-name="TV Sur Canal 9" tvg-logo="https://i2.paste.pics/e71dbd173c7d1e13f92e019c7a9ac89f.png", TV Sur Canal 9 | CR
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1050" tvg-name="TVN 14" tvg-logo="https://i2.paste.pics/7a71c98ae29da64846c3690f0417b341.png", TVN 14 | CR
+https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=6298ef6c834e130001deca75&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1654276332%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D816d2090be99a068c4ca4b3686a40bcfd4def1ed4e321d5162a698ce24abc340
+#EXTINF:-1 tvg-id="37" tvg-name="Canal 38" tvg-logo="https://lh3.googleusercontent.com/-JsoqJma_UaI/Xz5177aFy8I/AAAAAAAA4r8/2mN9M0HRshQfHf1Y1bH_ul9q22z36M41gCK8BGAsYHg/s0/2020-08-20.png", Canal 38 | CR
+https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1062" tvg-name="Canal VM Latino" tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png", Canal VM Latino | CR
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1064" tvg-name="Soy Plancha TV" tvg-logo="https://i2.paste.pics/ade26f32ba4868798ef1593a34e57ef7.png", Soy Plancha TV | CR
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="911" tvg-name="Tele Clasicos" tvg-logo="https://i2.paste.pics/379d8ce5893c94a972cd1ec9f5a13149.png", Tele Clasicos | CR
+https://tvdatta.com:3574/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png", Video Tour Channel | CR
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1063" tvg-name="Vintage Music" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png", Vintage Music | CR
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="479" tvg-name="Retro TV Palmares" tvg-logo="https://lh3.googleusercontent.com/-69OUFEsZEzE/XuzYkDQB5ZI/AAAAAAAA2A8/TtTckrIloRkQkhv8uNthZzDvFMH-dAkFwCK8BGAsYHg/s0/2020-06-19.png", Retro TV Palmares | CR
+http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="477" tvg-name="Telered" tvg-logo="https://i2.paste.pics/5b687eec9057d2c6bf08ae203f6643ef.png", Telered | CR
+https://59ef525c24caa.streamlock.net/ARBtv/teleplus/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png", Telesistema | CR
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1046" tvg-name="Radio 88 Stereo" tvg-logo="https://i2.paste.pics/191d7f0299ec0197d15d2e7b76ff037f.png", Radio 88 Stereo | CR
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="162" tvg-name="Extrema TV" tvg-logo="https://lh3.googleusercontent.com/-YvhgR9bWwEk/XqeKc33JN4I/AAAAAAAAySs/RsIopL6SbT42YZrOwRYaWYx0EztbDMSkQCK8BGAsYHg/s0/2020-04-27.png", Extrema TV | CR
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="192" tvg-name="Luz Naciente TV" tvg-logo="https://lh3.googleusercontent.com/-TkocLRjb3Kk/YE1LWyaocRI/AAAAAAABAmc/_HK4XABBOKg9ybKErozOO7NCL2GMe9RDQCK8BGAsYHg/s512/2021-03-13.png", Luz Naciente TV | CR
+https://cloudflare.streamgato.us:3399/live/luznacientetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static3.teletica.com//Files/Sizes/2017/10/13/logo-teletica-640132500_380x260.jpg" group-title="Costa Rica", TELETICA CANAL 7| HD | LA SABANA COSTA RICA
 https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5zLccJEErucFO3UxmKVJVl0snaFItK0_7B_Ozv3xH8hl)/dm/3/x29e3wg/d/live-2.m3u8
-
 #EXTINF:-1 tvg-logo="https://teleticaradio.com/wp-content/uploads/2021/02/Radio-Logo.png" group-title="Costa Rica", TELETICA RADIO| HD | LA SABANA COSTA RICA
 https://stream-02.nyc.dailymotion.com/sec(mGtXk081oRxj3J14xGtAcgrsHw7yI5y9e2hadLXYZBg_Och2LlylVwJqJAZvWh-t)/dm/3/x665gvm/d/live-2.m3u8
-
-#EXTINF:-1 tvg-logo="https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1659437470336005~c5_720x720.jpeg?x-expires=1631563200&x-signature=%2F4nmnVhaNkYAaYzE6hQfqLYqNfQ%3D" group-title="Costa Rica", VM LATINO| HD | SAN JOSE
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w55830626.m3u8
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0bcr2L-Fzm8/XNQFOP8LvpI/AAAAAAAAHqc/mLqDkPL0_VEJmy6RYjVj0HiaIWxmXLepwCLcBGAs/s200/Telefides%2BCanal%2B40.png" group-title="RELIGIOSO", CANAL TELEFIDES| HD | SAN JOSE
 https://s2.cwebtv.net:4433/telefides/telefides/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://mmmcostarica.com/assets/images/logo.png" group-title="RELIGIOSO", M.M.M CR BETHEL | HD | COSTA RICA
-https://primary-out.iptv-global.net/costarica/ngrp:myStream_all/chunklist_w1096449973_b2628000.m3u8
 
-#EXTINF:-1 tvg-logo="https://ayuda.tigo.co.cr/hc/article_attachments/360037602474/tigo_sports.png" group-title="Costa Rica", CANAL TIGO CR | HD | SAN JOSE
-https://drqskz1ihsia2.cloudfront.net/out/v1/e30fab906b3a4dd396239b592a0ff5a1/index_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png" group-title="RELIGIOSO", EL SEMBRADOR | HD | RELIGIOSO
-https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=6298ef6c834e130001deca75&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1654276332%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D816d2090be99a068c4ca4b3686a40bcfd4def1ed4e321d5162a698ce24abc340
